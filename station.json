@@ -22,9 +22,9 @@
   "note": "AIで生成したキャラクターです"
  },
  "credits": [
-  "声：COEIROINK:リリンちゃん（ものラジオの公開音声を参照）"
+  "声：AI音声合成（試し放送）"
  ],
- "caster": "声：COEIROINK:リリンちゃん",
+ "caster": "声：AI音声合成",
  "audio": {
   "dir": "audio",
   "keep_days": 30
