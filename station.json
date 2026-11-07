@@ -1,0 +1,33 @@
+{
+ "format": "myradio/station-1",
+ "name": "ラディ",
+ "description": "材料・半導体・宇宙など、朝のサイエンスニュースを約90秒で読む放送局。",
+ "tagline": "朝のサイエンスニュース",
+ "logo": null,
+ "url": "https://mimizumimizuku.github.io/radi/",
+ "repo": "https://github.com/mimizumimizuku/radi",
+ "language": "ja",
+ "languages": [
+  "ja"
+ ],
+ "schedule": {
+  "every": "day",
+  "time": "06:10",
+  "timezone": "Asia/Tokyo"
+ },
+ "episodes": "episodes.json",
+ "character": {
+  "pack": "character/character.json",
+  "thumbnail": "character/base.png",
+  "note": "AIで生成したキャラクターです"
+ },
+ "credits": [
+  "声：COEIROINK:リリンちゃん"
+ ],
+ "caster": "声：COEIROINK:リリンちゃん",
+ "audio": {
+  "dir": "audio",
+  "keep_days": 30
+ },
+ "weather": true
+}
