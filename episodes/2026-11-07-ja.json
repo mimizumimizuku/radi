@@ -1,140 +1,171 @@
 {
- "title": "チップの薄膜がコイルに、探査機は今夜火星へ",
+ "title": "バンドギャップ7eV超の半導体と、22年働いた宇宙望遠鏡",
  "opening": [
   {
    "say": "おはようございます、ラディです。十一月七日、土曜日の朝です。",
    "show": "おはようございます、ラディです。11月7日、土曜日の朝です。"
   },
   {
-   "say": "今日は薄膜の材料から宇宙まで、四本のサイエンスニュースをお届けします。",
-   "show": "今日は薄膜から宇宙まで、サイエンス4本です。"
+   "say": "今日は半導体の記録更新、薄膜メモリ、有機センサー、宇宙望遠鏡の最期と、四本のニュースをお届けします。",
+   "show": "今日は半導体・薄膜・有機センサー・宇宙の4本です。"
   }
  ],
  "news": [
   {
-   "label": "窒化チタン薄膜の超インダクタ",
+   "label": "バンドギャップ7eV超の半導体",
    "points": [
-    "市販CMOSプロセスの薄膜を使用",
-    "面積はわずか18平方μm",
-    "量子電荷センサーの感度も向上"
+    "バンドギャップは7eV超（従来の記録は約6eV）",
+    "サファイア基板の上に薄膜を成長",
+    "ダイオードとトランジスタの試作に成功"
    ],
    "details": [
-    "GlobalFoundriesの22nm FDSOI（22FDX）プロセスに含まれる窒化チタン薄膜を使っています。",
-    "面積あたりのインダクタンスは、従来の渦巻き型インダクタより4桁高くなりました。",
-    "この素子で作った量子電荷センサー（rfSET）は、4ナノ秒の積分時間で信号対雑音比4,500を達成しました。"
+    "コーネル大学のチームが、シリコンを添加した酸化アルミニウムガリウムで、バンドギャップ7電子ボルト超を達成しました。論文はNature（2026年10月7日）に掲載。",
+    "薄膜はサブオキシド分子線エピタキシーでサファイア基板上に成長。この領域での室温の電気伝導は、従来報告の1億倍以上でした。",
+    "ダイオードと電界効果トランジスタ（AlphaFET）の試作にも成功。高い電圧に耐えるパワー半導体への応用が期待されます。"
    ],
-   "url": "https://doi.org/10.1038/s41928-026-01728-8",
+   "url": "https://news.cornell.edu/stories/2026/11/cornell-semiconductor-sets-record-widest-bandgap",
    "lines": [
     {
-     "say": "まずは半導体の論文から。市販のシーモスプロセスにもともと入っている、窒化チタンの薄膜を超インダクタに変えた研究が、ネイチャー エレクトロニクスに出ました。",
-     "show": "まずは半導体。市販CMOSプロセスの窒化チタン薄膜を超インダクタに。"
+     "say": "まずは半導体。コーネル大学のチームが、バンドギャップが七電子ボルトを超える半導体を作り、実際に動くトランジスタまで試作しました。論文はネイチャーに出ています。",
+     "show": "まずは半導体。バンドギャップ7eV超の材料でトランジスタ試作に成功。"
     },
     {
-     "say": "大きさは十八平方マイクロメートルしかないのに、渦巻き型のコイルと比べて、面積あたりのインダクタンスは四桁も高いそうです。",
-     "show": "面積18平方μmで、インダクタンス密度は渦巻き型の4桁上。"
+     "say": "材料は、シリコンを加えた酸化アルミニウムガリウムの薄膜で、土台はサファイア。この領域では電気の流れやすさが従来の一億倍以上あり、高電圧に耐えるパワー半導体の候補として注目されます。",
+     "show": "薄膜はサファイア上。伝導は従来の1億倍以上、パワー半導体の候補に。"
     }
    ],
    "link": {
-    "url": "https://doi.org/10.1038/s41928-026-01728-8",
-    "title": "A nonlinear superinductor in a deep-submicrometre integrated circuit",
-    "site": "Nature Electronics",
-    "description": "Superconducting circuit elements fabricated with a commercial CMOS process by using the TiN thin film present within the technology, achieving an inductance density four orders of magnitude higher than conventional spiral inductors.",
-    "image": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41928-026-01728-8/MediaObjects/41928_2026_1728_Fig1_HTML.png",
+    "url": "https://news.cornell.edu/stories/2026/11/cornell-semiconductor-sets-record-widest-bandgap",
+    "title": "Cornell semiconductor sets record for widest bandgap",
+    "site": "Cornell Chronicle",
+    "description": "Cornell engineers developed a silicon-doped aluminum gallium oxide semiconductor with a bandgap exceeding 7 electron volts and built working devices, including a field-effect transistor.",
+    "image": null,
     "icon": null
    }
   },
   {
-   "label": "折りたためる電磁シールド膜",
+   "label": "強誘電体薄膜メモリ、窓は6.1V",
    "points": [
-    "異なる次元のナノ材料を3次元の網目に",
-    "遮蔽性能は100デシベル超",
-    "平方メートル級・折りたたみ可能"
+    "HZOとAlNの二層膜をALDで成膜",
+    "メモリウィンドウは約6.1ボルト",
+    "データ保持は10年以上、書き換え1万回でも安定"
    ],
    "details": [
-    "この組み合わせを「交差次元パーコレーション」と呼び、印刷した導電パターン（メタ構造）で広い周波数帯をカバーします。",
-    "薄さと広帯域を両立し、電子機器の電磁干渉対策に使えます。",
-    "圧力ろ過・インクジェット印刷・転写を組み合わせた製法で、繰り返しの折りたたみにも耐えます。論文はACS Applied Materials & Interfacesなどに掲載されました。"
+    "ソウル大などのチームが、蛍石型の酸化ハフニウムジルコニウム（HZO）とウルツ鉱型の窒化アルミニウム（AlN）を重ねた二層膜で、近接効果による強誘電スイッチングを示しました。ACS Nanoに2026年11月6日掲載。",
+    "残留分極はHZO並みのまま、抗電界が大きく上がり、メモリウィンドウの拡大につながります。",
+    "膜厚5ナノメートルのa-IGZOをチャネルにした薄膜トランジスタで、メモリウィンドウ約6.1ボルト、10年以上のデータ保持、1万回の耐久を確認しました。"
    ],
-   "url": "https://techxplore.com/news/2026-11-thin-foldable-broadband-electromagnetic-shielding.html",
+   "url": "https://doi.org/10.1021/acsnano.6c13795",
    "lines": [
     {
-     "say": "続いては材料の話題。中国科学院のチームが、薄くて折りたためる、電磁波のシールド膜を作りました。",
-     "show": "続いて材料。中国科学院が折りたためる電磁シールド膜を開発。"
+     "say": "続いては薄膜メモリ。酸化ハフニウムジルコニウムと窒化アルミニウムを重ねた強誘電体の薄膜で、メモリウィンドウが六点一ボルトまで広がったという報告が、エーシーエス ナノに出ました。",
+     "show": "続いて薄膜メモリ。HZOとAlNの二層膜でメモリウィンドウ6.1V。"
     },
     {
-     "say": "違う次元のナノ材料を三次元の網目にして、導電パターンを印刷することで、遮蔽は百デシベルを超え、幅広い周波数に対応します。",
-     "show": "ナノ材料の3次元網目＋導電パターンで、遮蔽100dB超・広帯域。"
+     "say": "この膜を使った薄膜トランジスタは、データ保持が十年以上、書き換えも一万回レベルで安定していて、長く覚えるメモリへの応用が期待されます。",
+     "show": "保持10年以上・耐久1万回。長く覚えるメモリへ。"
     }
    ],
    "link": {
-    "url": "https://techxplore.com/news/2026-11-thin-foldable-broadband-electromagnetic-shielding.html",
-    "title": "Thin, foldable films offer broadband electromagnetic shielding",
-    "site": "Tech Xplore",
-    "description": "Researchers at the Hefei Institutes of Physical Science developed flexible films that shield electromagnetic waves across a broad frequency range, producible at square-meter scale.",
-    "image": "https://scx1.b-cdn.net/csz/news/800a/2026/electromagnetic-contro.jpg",
+    "url": "https://doi.org/10.1021/acsnano.6c13795",
+    "title": "Memory Window Improvement in Ferroelectric Thin-Film Transistors with HfZrO2/AlN Bilayers Grown by Atomic Layer Deposition",
+    "site": "ACS Nano",
+    "description": "A stacked HZO/AlN ferroelectric film grown by ALD shows a memory window of ~6.1 V in a thin-film transistor with an a-IGZO channel, with retention over 10 years.",
+    "image": null,
     "icon": null
    }
   },
   {
-   "label": "電子ペアと常温超伝導",
+   "label": "有機薄膜センサー、熱処理で仕組みが切替",
    "points": [
-    "銅酸化物の高温超伝導体を調査",
-    "電子ペアは転移温度より上で形成",
-    "残る壁は位相コヒーレンス"
+    "有機半導体Y6の薄膜が対象",
+    "200度を超えるとアモルファスから多結晶へ",
+    "検出の仕組みがフォトゲイン型に切り替わる"
    ],
    "details": [
-    "ユトレヒト・ライデン・ミュンヘンのチームが、銅酸化物Bi2Sr2CaCu2O8+δを調べ、Scienceに発表しました。",
-    "ペアを保つ力は、常温でも十分に強いことが分かりました。",
-    "ペア同士がそろって動く位相コヒーレンスが、常温超伝導へのボトルネックです。"
+    "バルセロナ材料科学研究所（ICMAB-CSIC）などのチームが、有機半導体Y6の薄膜について、結晶性と近赤外光への応答の関係を調べ、Smallに発表しました。",
+    "200度未満の熱処理ではアモルファス、200度を超えると多結晶に変化。840ナノメートルの光への応答が、単純な光伝導型から、増幅の効くフォトゲーティング型に切り替わります。",
+    "多結晶の素子では、光応答度が1ワットあたり127アンペアに達しました。"
    ],
-   "url": "https://phys.org/news/2026-11-paired-electron-pairing-room-temperature.html",
+   "url": "https://icmab.es/crystallinity-effects-on-near-infrared-photoresponse-in-y6-based-organic-phototransistors",
    "lines": [
     {
-     "say": "お次は物理学。高温超伝導では、電子のペアが、超伝導になる温度よりずっと上ですでにできていることが分かりました。",
-     "show": "お次は物理。電子ペアは超伝導転移よりずっと上で形成済み。"
+     "say": "三本目は有機センサー。有機半導体のワイシックスという材料は、薄膜の熱処理が二百度を超えるかどうかで、光の検出の仕組みそのものが切り替わることが分かりました。",
+     "show": "三本目は有機センサー。Y6薄膜は200度超の熱処理で検出機構が切替。"
     },
     {
-     "say": "ペアそのものは常温でも保てる強さがあるので、残る壁は、ペア同士が足並みをそろえる、位相コヒーレンスだそうです。",
-     "show": "残る壁は、ペア同士の位相コヒーレンス。"
+     "say": "結晶がそろうと、光で生まれた電荷がゲートのように働いて電流を大きく増幅します。健康管理やマシンビジョン向けの、目に見えない近赤外線センサーへの応用が見込まれます。",
+     "show": "結晶化でフォトゲインが効き、近赤外センサーの感度が大きく向上。"
     }
    ],
    "link": {
-    "url": "https://phys.org/news/2026-11-paired-electron-pairing-room-temperature.html",
-    "title": "Paired but out of step: Why electron pairing alone is not enough for room-temperature superconductivity",
+    "url": "https://icmab.es/crystallinity-effects-on-near-infrared-photoresponse-in-y6-based-organic-phototransistors",
+    "title": "Crystallinity Effects on Near-Infrared Photoresponse in Y6-Based Organic Phototransistors",
+    "site": "ICMAB-CSIC",
+    "description": "Annealing Y6 films above 200 °C turns them polycrystalline and switches the near-infrared photoresponse from photoconductive to photogating behavior, reaching a photoresponsivity of 127 A/W.",
+    "image": null,
+    "icon": null
+   }
+  },
+  {
+   "label": "Swift望遠鏡、22年の任務に幕",
+   "points": [
+    "2004年打ち上げ、設計寿命2年が約22年に",
+    "最後の観測は2026年10月20日",
+    "11月4日に北スマトラ上空で再突入"
+   ],
+   "details": [
+    "NASAのニール・ゲーレルス・スウィフト観測所は、ガンマ線バーストなど宇宙の高エネルギー現象を観測してきました。",
+    "軌道が下がり続け、今年はロボット探査機で軌道を持ち上げる救出作戦も試みられましたが実らず、10月20日に最後の観測を行いました。",
+    "11月4日12時39分（UTC）、インドネシア・北スマトラ沖の上空で大気圏に再突入し、ほぼ燃え尽きたとされています。"
+   ],
+   "url": "https://phys.org/news/2026-11-nasa-swift-telescope-months-robot.html",
+   "lines": [
+    {
+     "say": "最後は宇宙です。ナサの宇宙望遠鏡スウィフトが、十一月四日に大気圏へ再突入し、二十二年近い任務を終えました。",
+     "show": "最後は宇宙。NASAのSwiftが11月4日に再突入、約22年の任務に幕。"
+    },
+    {
+     "say": "二年の設計寿命で打ち上げられ、ガンマ線バーストを見張り続けた望遠鏡です。今年は軌道を持ち上げる救出作戦も試みられましたが実らず、静かに役目を終えました。",
+     "show": "設計2年→22年。救出作戦も試みられたが実らず、役目を終えた。"
+    }
+   ],
+   "link": {
+    "url": "https://phys.org/news/2026-11-nasa-swift-telescope-months-robot.html",
+    "title": "NASA's Swift telescope has burned up, months after a robot sent to save it failed",
     "site": "Phys.org",
-    "description": "In high-temperature superconductors, electrons can already form pairs at temperatures well above the superconducting transition; the synchronous movement of the pairs — phase coherence — is the bottleneck.",
-    "image": "https://scx1.b-cdn.net/csz/news/800a/2026/new-research-offers-ho.jpg",
+    "description": "NASA's Neil Gehrels Swift Observatory made its final observation on Oct. 20, 2026, and reentered the atmosphere on Nov. 4 above North Sumatra, ending nearly 22 years of observing cosmic explosions.",
+    "image": null,
     "icon": null
    }
   },
   {
-   "label": "ESCAPADE、今日地球を蹴る",
+   "label": "お知らせ：ラディ、自動投稿になりました",
    "points": [
-    "地球の引力＋エンジン噴射の初マヌーバ",
-    "1機目は日本時間今夜7時ごろ実施",
-    "火星到着は2027年9月・編隊で観測"
+    "台本作りから公開まで自動になりました",
+    "毎朝の放送はこれまで通りです",
+    "声はリリンちゃんのままです"
    ],
    "details": [
-    "地球に最接近するタイミングで約9分間エンジンを噴射し、時速1,000マイル以上加速する「パワード・フライバイ（オーベルト・マヌーバ）」です。火星行きの探査機では初の試みです。",
-    "2機目は11月9日に続きます。噴射は南オーストラリア上空で行われます。",
-    "約10か月の航行ののち火星に到着し、2機編隊で太陽風と火星の大気の逃げ出しを調べます。"
+    "これまでは手作業で公開していましたが、今回から自動公開に切り替えました。",
+    "ニュースの出典を一つずつ確認する進め方は、これまで通りです。"
    ],
-   "url": "https://science.nasa.gov/blogs/escapade/2026/11/02/nasas-twin-escapade-spacecraft-to-slingshot-past-earth-on-way-to-mars/",
+   "url": "https://mimizumimizuku.github.io/radi/",
    "lines": [
     {
-     "say": "最後は宇宙です。ナサの双子探査機、エスカペードが、地球の引力とエンジン噴射を重ねる、初めてのパワードフライバイで火星へ向かいます。",
-     "show": "最後は宇宙。NASAの双子探査機ESCAPADEが初のパワードフライバイ。"
+     "say": "最後に、放送の仕組みについてのお知らせです。今回からラディは、台本作り、声の作成、そして公開までを、自動で行うようになりました。",
+     "show": "最後にお知らせ。台本作り・声の作成・公開まで自動になりました。"
     },
     {
-     "say": "一機目は日本時間の今夜七時ごろ、地球に最接近して噴射します。火星に着くのは、二〇二七年の九月です。",
-     "show": "1機目は日本時間今夜19時ごろ。火星到着は2027年9月。"
+     "say": "毎朝、その日のサイエンスニュースを選んで台本を作り、この声で読み上げて、公開まで進みます。放送の時間も、声も、これまで通りです。",
+     "show": "毎朝、ニュースを選んで読み上げ、公開まで進みます。時間も声もこれまで通り。"
     }
    ],
    "link": {
-    "url": "https://science.nasa.gov/blogs/escapade/2026/11/02/nasas-twin-escapade-spacecraft-to-slingshot-past-earth-on-way-to-mars/",
-    "title": "NASA's Twin ESCAPADE Spacecraft to Slingshot Past Earth on Way to Mars",
-    "site": "NASA Science",
-    "description": "Each of the two ESCAPADE spacecraft will execute a powered flyby of Earth, combining Earth's gravity with an engine burn to slingshot itself toward Mars.",
+    "url": "https://mimizumimizuku.github.io/radi/",
+    "title": "ラディ | 朝のサイエンスニュース",
+    "site": "ラディ",
+    "description": "材料・半導体・宇宙など、朝のサイエンスニュースを約90秒で読む放送局。",
     "image": null,
     "icon": null
    }
@@ -142,8 +173,8 @@
  ],
  "closing": [
   {
-   "say": "今日の注目は、窒化チタンの超インダクタ。市販チップの材料が、そのまま量子デバイスの部品になるというのが面白いところです。",
-   "show": "今日の注目は窒化チタン薄膜。市販チップの材料が量子の部品に。"
+   "say": "今日の注目は、七電子ボルト超の半導体。絶縁体に近いと思われていた領域で、電気を思い通りに操れたというのが、材料の地図を広げる成果です。",
+   "show": "今日の注目は7eV超半導体。材料の地図を広げる成果。"
   },
   {
    "say": "それでは、今日のラディはここまで。よい土曜日を。",
@@ -154,7 +185,6 @@
  "format": "monoradio/news-1",
  "date": "2026-11-07",
  "lang": "ja",
- "seconds": 106.27,
  "lines_timed": [
   {
    "start": 0.6,
@@ -164,69 +194,81 @@
   },
   {
    "start": 5.622,
-   "end": 10.846,
-   "show": "今日は薄膜から宇宙まで、サイエンス4本です。",
+   "end": 14.399,
+   "show": "今日は半導体・薄膜・有機センサー・宇宙の4本です。",
    "part": 0
   },
   {
-   "start": 11.896,
-   "end": 23.46,
-   "show": "まずは半導体。市販CMOSプロセスの窒化チタン薄膜を超インダクタに。",
+   "start": 15.449,
+   "end": 27.175,
+   "show": "まずは半導体。バンドギャップ7eV超の材料でトランジスタ試作に成功。",
    "part": 1
   },
   {
-   "start": 23.71,
-   "end": 33.195,
-   "show": "面積18平方μmで、インダクタンス密度は渦巻き型の4桁上。",
+   "start": 27.425,
+   "end": 41.891,
+   "show": "薄膜はサファイア上。伝導は従来の1億倍以上、パワー半導体の候補に。",
    "part": 1
   },
   {
-   "start": 34.245,
-   "end": 41.78,
-   "show": "続いて材料。中国科学院が折りたためる電磁シールド膜を開発。",
+   "start": 42.941,
+   "end": 56.478,
+   "show": "続いて薄膜メモリ。HZOとAlNの二層膜でメモリウィンドウ6.1V。",
    "part": 2
   },
   {
-   "start": 42.03,
-   "end": 52.374,
-   "show": "ナノ材料の3次元網目＋導電パターンで、遮蔽100dB超・広帯域。",
+   "start": 56.728,
+   "end": 67.119,
+   "show": "保持10年以上・耐久1万回。長く覚えるメモリへ。",
    "part": 2
   },
   {
-   "start": 53.424,
-   "end": 62.353,
-   "show": "お次は物理。電子ペアは超伝導転移よりずっと上で形成済み。",
+   "start": 68.169,
+   "end": 80.511,
+   "show": "三本目は有機センサー。Y6薄膜は200度超の熱処理で検出機構が切替。",
    "part": 3
   },
   {
-   "start": 62.603,
-   "end": 70.706,
-   "show": "残る壁は、ペア同士の位相コヒーレンス。",
+   "start": 80.761,
+   "end": 93.369,
+   "show": "結晶化でフォトゲインが効き、近赤外センサーの感度が大きく向上。",
    "part": 3
   },
   {
-   "start": 71.756,
-   "end": 81.729,
-   "show": "最後は宇宙。NASAの双子探査機ESCAPADEが初のパワードフライバイ。",
+   "start": 94.419,
+   "end": 103.719,
+   "show": "最後は宇宙。NASAのSwiftが11月4日に再突入、約22年の任務に幕。",
    "part": 4
   },
   {
-   "start": 81.979,
-   "end": 90.814,
-   "show": "1機目は日本時間今夜19時ごろ。火星到着は2027年9月。",
+   "start": 103.969,
+   "end": 116.089,
+   "show": "設計2年→22年。救出作戦も試みられたが実らず、役目を終えた。",
    "part": 4
   },
   {
-   "start": 91.864,
-   "end": 101.106,
-   "show": "今日の注目は窒化チタン薄膜。市販チップの材料が量子の部品に。",
+   "start": 117.139,
+   "end": 127.681,
+   "show": "最後にお知らせ。台本作り・声の作成・公開まで自動になりました。",
    "part": 5
   },
   {
-   "start": 101.356,
-   "end": 104.769,
+   "start": 127.931,
+   "end": 138.659,
+   "show": "毎朝、ニュースを選んで読み上げ、公開まで進みます。時間も声もこれまで通り。",
+   "part": 5
+  },
+  {
+   "start": 139.709,
+   "end": 151.307,
+   "show": "今日の注目は7eV超半導体。材料の地図を広げる成果。",
+   "part": 6
+  },
+  {
+   "start": 151.557,
+   "end": 154.971,
    "show": "それでは、ラディでした。よい土曜日を。",
-   "part": 5
+   "part": 6
   }
  ],
  "segments": [
@@ -234,38 +276,45 @@
    "kind": "opening",
    "index": null,
    "start": 0.6,
-   "end": 10.846
+   "end": 14.399
   },
   {
    "kind": "news",
    "index": 0,
-   "start": 11.896,
-   "end": 33.195
+   "start": 15.449,
+   "end": 41.891
   },
   {
    "kind": "news",
    "index": 1,
-   "start": 34.245,
-   "end": 52.374
+   "start": 42.941,
+   "end": 67.119
   },
   {
    "kind": "news",
    "index": 2,
-   "start": 53.424,
-   "end": 70.706
+   "start": 68.169,
+   "end": 93.369
   },
   {
    "kind": "news",
    "index": 3,
-   "start": 71.756,
-   "end": 90.814
+   "start": 94.419,
+   "end": 116.089
+  },
+  {
+   "kind": "news",
+   "index": 4,
+   "start": 117.139,
+   "end": 138.659
   },
   {
    "kind": "closing",
    "index": null,
-   "start": 91.864,
-   "end": 104.769
+   "start": 139.709,
+   "end": 154.971
   }
  ],
- "made_at": "2026-11-07T14:55:27"
+ "seconds": 156.47,
+ "made_at": "2026-11-07T07:30:15"
 }
