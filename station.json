@@ -12,7 +12,7 @@
  ],
  "schedule": {
   "every": "day",
-  "time": "06:10",
+  "time": "05:30",
   "timezone": "Asia/Tokyo"
  },
  "episodes": "episodes.json",
