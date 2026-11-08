@@ -1,0 +1,263 @@
+{
+ "closing": [
+  {
+   "say": "なかでも、はくまくの電気の流れを自在にあやつったコーネル大学の成果は、半導体の常識をくつがえす一本でした。",
+   "show": "注目はコーネル大の記録更新"
+  },
+  {
+   "say": "それでは、きょうもよい一日を。ラディでした。",
+   "show": "きょうもよい一日を"
+  }
+ ],
+ "date": "2026-11-09",
+ "format": "monoradio/news-1",
+ "highlight": 0,
+ "lang": "ja",
+ "news": [
+  {
+   "details": [
+    "コーネル大学の研究チームが、シリコンを加えた酸化アルミニウムガリウムの半導体で、7eVを超えるバンドギャップを達成し、Natureに発表した。",
+    "薄膜はサブオキサイド分子線エピタキシーで一層ずつ成長させ、ダイオードとAlphaFETと呼ばれるトランジスタも試作した。",
+    "電気自動車や電力網など、高電圧を扱う用途への応用が期待される。"
+   ],
+   "label": "バンドギャップ7eV超えの半導体、世界記録を更新",
+   "lines": [
+    {
+     "say": "コーネル大学のチームが、バンドギャップ七エレクトロンボルトを超える半導体を作り、世界記録を更新しました。",
+     "show": "コーネル大、バンドギャップ7eV超え"
+    },
+    {
+     "say": "シリコンを加えた酸化アルミニウムガリウムのはくまくは、電気が流れにくい常識をくつがえし、ダイオードやトランジスタも動きました。",
+     "show": "薄膜でダイオード・トランジスタも試作"
+    }
+   ],
+   "link": {
+    "description": "シリコンを加えた酸化アルミニウムガリウムで7eV超のバンドギャップを達成し、ダイオードとトランジスタを試作した。",
+    "site": "Cornell Chronicle",
+    "title": "Cornell semiconductor sets record for widest bandgap",
+    "url": "https://news.cornell.edu/stories/2026/11/cornell-semiconductor-sets-record-widest-bandgap"
+   },
+   "points": [
+    "シリコンを加えた酸化アルミニウムガリウム",
+    "バンドギャップ7eV超えで世界記録",
+    "薄膜の導電率は従来比1億倍超"
+   ],
+   "url": "https://news.cornell.edu/stories/2026/11/cornell-semiconductor-sets-record-widest-bandgap"
+  },
+  {
+   "details": [
+    "ソウル国立大学を中心とする研究チームが、ハフニア・ジルコニア（HZO）の強誘電体コンデンサを開発し、Nature Communicationsに発表した。",
+    "電極と材料の界面を精密に制御し、厚さ5nmの薄膜で0.6Vでの分極切り替えを実現した。",
+    "切り替え時間は0.6Vで約40ナノ秒、1Vで約8ナノ秒で、1兆回の切り替え後も情報の区別ができた。"
+   ],
+   "label": "0.6Vで動く強誘電体コンデンサ、1兆回でも壊れず",
+   "lines": [
+    {
+     "say": "ソウル大学などのチームが、メモリー向けに、零点六ボルトという低い電圧で動く強誘電体のコンデンサーを作りました。",
+     "show": "ソウル大、0.6Vの強誘電体コンデンサ"
+    },
+    {
+     "say": "電極との境目を整えたことで、厚さ五ナノメートルのはくまくを使い、一兆回の切り替えでも壊れず、速さと長もちを両立しました。",
+     "show": "5nm薄膜、1兆回でも破壊なし"
+    }
+   ],
+   "link": {
+    "description": "0.6Vで動作し、1兆回の切り替え後も破壊しないHZO強誘電体コンデンサを開発。DRAM級の低消費電力メモリーへの応用が期待される。",
+    "site": "Tech Xplore",
+    "title": "Low-voltage capacitor combines rapid switching with a trillion cycles without breakdown",
+    "url": "https://techxplore.com/news/2026-11-voltage-capacitor-combines-rapid-trillion.html"
+   },
+   "points": [
+    "ソウル大学などが開発、HZOの薄膜",
+    "0.6Vで分極が切り替わる",
+    "1兆回の切り替えでも破壊なし"
+   ],
+   "url": "https://techxplore.com/news/2026-11-voltage-capacitor-combines-rapid-trillion.html"
+  },
+  {
+   "details": [
+    "華東理工大学などの研究チームが、MXeneのナノシートを巻き上げた超格子構造で作った薄膜をNature Communicationsに発表した。",
+    "従来は強さと導電性の両立が難しかったが、層間の応力伝達と導電パスを両立させた。",
+    "電磁波シールド性能も優れ、柔軟な電子機器などへの応用が期待される。"
+   ],
+   "label": "強くて電気も通すMXene薄膜、超格子で両立",
+   "lines": [
+    {
+     "say": "中国の研究チームが、強さと電気の通しやすさを両立した、新しいエムエックスイーンのはくまくを作りました。",
+     "show": "MXene薄膜、強さと導電性を両立"
+    },
+    {
+     "say": "ナノシートを巻き上げた超格子構造で、引張強度は五百九十八メガパスカル、導電率も高く、電磁波シールドにも優れています。",
+     "show": "598MPa・13682S/cmを達成"
+    }
+   ],
+   "link": {
+    "description": "MXeneの超格子構造による薄膜が、598MPaの引張強度と13682S/cmの導電率を両立した。",
+    "site": "Nature Communications",
+    "title": "Non-van der Waals superlattices reconcile the strength and conductivity of MXene films",
+    "url": "https://www.nature.com/articles/s41467-026-79381-0"
+   },
+   "points": [
+    "非ファンデルワールス超格子構造",
+    "引張強度598MPa",
+    "導電率13682S/cm、電磁波シールドも"
+   ],
+   "url": "https://www.nature.com/articles/s41467-026-79381-0"
+  },
+  {
+   "details": [
+    "NASAは11月7日、月面基地に向けた輸送・技術・科学プロジェクトの一連の受注を発表した。",
+    "新しいCLPS 2の枠組みでは、ブルーオリジンやスペースXなど8社が月面への輸送を競う。",
+    "原子力で動く6輪ローバーPROMISEは、月の南極で氷などの資源を調べ、2028年後半の打上げを目指す。"
+   ],
+   "label": "NASA、月面基地へ10年・最大100億ドルの輸送枠組み",
+   "lines": [
+    {
+     "say": "ナサが、月面基地づくりに向け、十年で最大百億ドル規模の輸送の枠組みを発表しました。",
+     "show": "NASA、月面基地へ10年・最大100億ドル"
+    },
+    {
+     "say": "ブルーオリジンやスペースエックスなど八社が月への輸送を競い、原子力ローバーは二千二十八年後半の打ち上げを目指します。",
+     "show": "8社が月輸送へ、原子力ローバーは2028年打上げ"
+    }
+   ],
+   "link": {
+    "description": "NASAが月面基地に向けたCLPS 2（最大100億ドル）や原子力ローバーPROMISEなど一連の受注を発表した。",
+    "site": "NASA",
+    "title": "NASA Awards Moon Base Transportation, Technology, Science Projects",
+    "url": "https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects/"
+   },
+   "points": [
+    "CLPS 2、10年で最大100億ドル",
+    "月輸送に参加する企業は8社",
+    "原子力ローバーPROMISE、2028年後半に打上げへ"
+   ],
+   "url": "https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects/"
+  }
+ ],
+ "opening": [
+  {
+   "say": "おはようございます、ラディです。十一月九日、月曜日の朝のサイエンスニュースをお届けします。",
+   "show": "おはようございます、ラディです。"
+  },
+  {
+   "say": "きょうは、半導体の記録更新や、長もちするメモリーの話題など、四本です。",
+   "show": "11/9（月）朝のサイエンスニュース・4本"
+  }
+ ],
+ "title": "半導体の記録更新と、月面基地への一歩",
+ "lines_timed": [
+  {
+   "start": 0.6,
+   "end": 7.531,
+   "show": "おはようございます、ラディです。",
+   "part": 0
+  },
+  {
+   "start": 7.781,
+   "end": 13.621,
+   "show": "11/9（月）朝のサイエンスニュース・4本",
+   "part": 0
+  },
+  {
+   "start": 14.671,
+   "end": 22.194,
+   "show": "コーネル大、バンドギャップ7eV超え",
+   "part": 1
+  },
+  {
+   "start": 22.444,
+   "end": 31.337,
+   "show": "薄膜でダイオード・トランジスタも試作",
+   "part": 1
+  },
+  {
+   "start": 32.387,
+   "end": 40.979,
+   "show": "ソウル大、0.6Vの強誘電体コンデンサ",
+   "part": 2
+  },
+  {
+   "start": 41.229,
+   "end": 51.318,
+   "show": "5nm薄膜、1兆回でも破壊なし",
+   "part": 2
+  },
+  {
+   "start": 52.368,
+   "end": 60.46,
+   "show": "MXene薄膜、強さと導電性を両立",
+   "part": 3
+  },
+  {
+   "start": 60.71,
+   "end": 70.242,
+   "show": "598MPa・13682S/cmを達成",
+   "part": 3
+  },
+  {
+   "start": 71.292,
+   "end": 78.235,
+   "show": "NASA、月面基地へ10年・最大100億ドル",
+   "part": 4
+  },
+  {
+   "start": 78.485,
+   "end": 86.844,
+   "show": "8社が月輸送へ、原子力ローバーは2028年打上げ",
+   "part": 4
+  },
+  {
+   "start": 87.894,
+   "end": 96.276,
+   "show": "注目はコーネル大の記録更新",
+   "part": 5
+  },
+  {
+   "start": 96.526,
+   "end": 99.452,
+   "show": "きょうもよい一日を",
+   "part": 5
+  }
+ ],
+ "segments": [
+  {
+   "kind": "opening",
+   "index": null,
+   "start": 0.6,
+   "end": 13.621
+  },
+  {
+   "kind": "news",
+   "index": 0,
+   "start": 14.671,
+   "end": 31.337
+  },
+  {
+   "kind": "news",
+   "index": 1,
+   "start": 32.387,
+   "end": 51.318
+  },
+  {
+   "kind": "news",
+   "index": 2,
+   "start": 52.368,
+   "end": 70.242
+  },
+  {
+   "kind": "news",
+   "index": 3,
+   "start": 71.292,
+   "end": 86.844
+  },
+  {
+   "kind": "closing",
+   "index": null,
+   "start": 87.894,
+   "end": 99.452
+  }
+ ],
+ "seconds": 100.95,
+ "made_at": "2026-11-09T05:31:53"
+}
