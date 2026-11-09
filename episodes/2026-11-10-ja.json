@@ -1,0 +1,263 @@
+{
+ "closing": [
+  {
+   "say": "粒の境目を液体にする発想が、太陽電池とエルイーディーの両方を押し上げたのが、きょう一番の驚きでした。",
+   "show": "粒界を液体にする発想が両方を押し上げた"
+  },
+  {
+   "say": "それでは、きょうも良い一日を。ラディでした。",
+   "show": "今日も良い一日を。ラディでした。"
+  }
+ ],
+ "date": "2026-11-10",
+ "format": "monoradio/news-1",
+ "highlight": 0,
+ "lang": "ja",
+ "news": [
+  {
+   "details": [
+    "成均館大学などの国際チームは、Science誌に発表した研究で、メチルアンモニウム塩化物と亜鉛ハライドの共融混合物を使い、約100℃で粒界を薄い液体層にして結晶成長を促した。",
+    "欠陥の少ない大粒結晶が得られ、太陽電池は変換効率26.5%（認証値25.9%）、同じ構造のLEDは外部量子効率26.1%を達成した。",
+    "高価な特殊装置を使わない手法で、ディスプレイや光検出器などへの応用も期待される。"
+   ],
+   "label": "ペロブスカイト薄膜の欠陥を大幅に削減",
+   "lines": [
+    {
+     "say": "まず、ペロブスカイトのはくまくです。粒の境目を液体にして結晶を大きく育てることで、欠陥を大幅に減らしました。",
+     "show": "ペロブスカイト薄膜の欠陥を大幅削減"
+    },
+    {
+     "say": "このはくまくで作った太陽電池の変換効率は二十六点五パーセント、同じ構造のエルイーディーは二十六点一パーセントでした。",
+     "show": "太陽電池26.5%・LED 26.1%を達成"
+    }
+   ],
+   "link": {
+    "description": "成均館大学などのチームが、共融混合物でペロブスカイト薄膜の結晶成長を促し欠陥を大幅に削減。太陽電池26.5%、LED外部量子効率26.1%を達成した（Science誌）。",
+    "site": "Phys.org",
+    "title": "Liquid-assisted crystal growth cuts perovskite defects for efficient solar cells and LEDs",
+    "url": "https://phys.org/news/2026-11-liquid-crystal-growth-perovskite-defects.html"
+   },
+   "points": [
+    "粒界を液体にして結晶を大きく育てる手法",
+    "キャリア寿命は約295μs、表面再結合速度は0.3cm/s",
+    "太陽電池26.5%、LED外部量子効率26.1%"
+   ],
+   "url": "https://phys.org/news/2026-11-liquid-crystal-growth-perovskite-defects.html"
+  },
+  {
+   "details": [
+    "東北大学と日本原子力研究開発機構のチームは、キラル反強磁性体Mn3Snのエピタキシャル薄膜で、量子幾何学的非線形ホール状態を電流で制御することに初めて成功した。成果はNewton誌に2026年11月4日に掲載された。",
+    "室温で3次の非線形ホール効果を観測し、隣接する重金属層に電流を流して生じるスピン軌道トルクで磁気秩序を切り替え、応答の符号を反転させた。",
+    "電流で調整できる周波数多重化器や整流器など、非線形信号処理デバイスへの応用が期待される。"
+   ],
+   "label": "電流で操る量子幾何学的非線形ホール効果",
+   "lines": [
+    {
+     "say": "つぎは、東北大学などの研究です。マンガンとすずの化合物のはくまくで、量子の幾何学が生む特殊なホール効果を、電流で操りました。",
+     "show": "Mn3Sn薄膜の量子ホール効果を電流で制御"
+    },
+    {
+     "say": "室温で、電圧が電流の三乗に比例する応答を確かめ、正と負の電流パルスで、その符号を切り替えることに成功しました。",
+     "show": "室温で3次ホール効果、符号を反転"
+    }
+   ],
+   "link": {
+    "description": "東北大学とJAEAがMn3Sn薄膜で量子幾何学的非線形ホール状態の電流制御に初成功。室温で3次の非線形ホール効果を観測し、電流パルスで符号を切り替えた（Newton誌）。",
+    "site": "Phys.org",
+    "title": "Electrical control of an unconventional quantum transport state demonstrated in a magnet for the first time",
+    "url": "https://phys.org/news/2026-11-electrical-unconventional-quantum-state-magnet.html"
+   },
+   "points": [
+    "東北大学とJAEAがMn3Sn薄膜で初めて実証",
+    "室温で3次の非線形ホール効果を観測",
+    "電流パルスで応答の符号を切り替え"
+   ],
+   "url": "https://phys.org/news/2026-11-electrical-unconventional-quantum-state-magnet.html"
+  },
+  {
+   "details": [
+    "Infineonは2026年11月9日、オーストリア・フィラッハ工場で300ミリメートルの炭化ケイ素（SiC）ウエハーを加工し、機能するパワーデバイスを作ったと発表した。量産工場での実証は業界初としている。",
+    "300mmウエハーは200mmと比べて1枚あたり約2.3倍のチップが取れ、既存のシリコン製造装置を活用して実現した。",
+    "ドレスデンでは、結晶からウエハーを切り出すCold Split技術の300mm SiCへの適用も実証した。自動車や再生可能エネルギー、AIデータセンター向けの供給基盤強化につなげる。"
+   ],
+   "label": "世界初、300mm SiCウエハーのパワーデバイス",
+   "lines": [
+    {
+     "say": "半導体メーカーのインフィニオンは、世界で初めて、三百ミリの炭化ケイ素ウエハーから、動くパワーデバイスを作りました。",
+     "show": "世界初 300mm SiCでパワーデバイス"
+    },
+    {
+     "say": "二百ミリと比べ、一枚から取れるチップは二点三倍。電気自動車や再生可能エネルギー、エーアイデータセンターへの供給につなげます。",
+     "show": "200mm比2.3倍のチップ数"
+    }
+   ],
+   "link": {
+    "description": "Infineonがフィラッハ工場で300mm SiCウエハーから機能するパワーデバイスを加工。200mm比で約2.3倍のチップ数が取れ、Cold Splitも300mmで実証した。",
+    "site": "PCIM",
+    "title": "World’s first 300-millimeter power silicon carbide (SiC) wafer by Infineon",
+    "url": "https://news.pcim.mesago.com/infineon-marks-innovation-milestone-with-worlds-first300-millimeter-power-silicon-carbide-sic-wafer-a-bafc321511661c34b665547ecc73faf0/"
+   },
+   "points": [
+    "Infineonがフィラッハ工場で機能するデバイスを加工",
+    "200mm比で1枚あたり約2.3倍のチップ数",
+    "Cold Splitも300mm SiCで実証"
+   ],
+   "url": "https://news.pcim.mesago.com/infineon-marks-innovation-milestone-with-worlds-first300-millimeter-power-silicon-carbide-sic-wafer-a-bafc321511661c34b665547ecc73faf0/"
+  },
+  {
+   "details": [
+    "NASAによると、ボイジャー1号は2026年11月18日に地球から約160億マイル（約259億km）離れ、光が24時間で進む距離「1光日」に到達する。人工物として初めての記録となる。",
+    "1977年の打ち上げから49年あまりの旅で、探査機はすでに太陽圏の外、星間空間を航行している。",
+    "この距離では電波が届くまで24時間かかり、返事を受け取るまでさらに24時間かかる。ボイジャー2号は2035年11月に同じ距離に到達する見込み。"
+   ],
+   "label": "ボイジャー1号、11月18日に「1光日」到達へ",
+   "lines": [
+    {
+     "say": "最後は宇宙の話題です。ボイジャー一号は十一月十八日、光が一日で進む距離、いちこうじつに、人類の人工物として初めて到達します。",
+     "show": "ボイジャー1号 11/18に1光日へ"
+    },
+    {
+     "say": "千九百七十七年の打ち上げから四十九年の旅です。地球からの距離は約百六十億マイルで、電波の片道は二十四時間かかります。",
+     "show": "距離は約160億マイル、電波は片道24時間"
+    }
+   ],
+   "link": {
+    "description": "ボイジャー1号は2026年11月18日に地球から約160億マイル離れ、光が24時間で進む「1光日」に人工物として初到達する。電波の片道は24時間になる。",
+    "site": "NASA Science",
+    "title": "Voyager 1: What Is a Light-Day",
+    "url": "https://science.nasa.gov/mission/voyager/voyager-1/voyager-1-what-is-a-light-day/"
+   },
+   "points": [
+    "11月18日に地球から約160億マイル（約259億km）",
+    "人類の人工物で初の1光日到達",
+    "電波の片道は24時間、往復は48時間に"
+   ],
+   "url": "https://science.nasa.gov/mission/voyager/voyager-1/voyager-1-what-is-a-light-day/"
+  }
+ ],
+ "opening": [
+  {
+   "say": "おはようございます、ラディです。十一月十日、火曜日の朝のサイエンスニュースをお届けします。",
+   "show": "おはようございます、ラディです。11/10(火)の朝のサイエンスニュース"
+  },
+  {
+   "say": "きょうは、はくまくの欠陥を減らす新しい技術や、半導体の大きな一歩など、四本です。",
+   "show": "今日は薄膜・半導体・宇宙の4本です"
+  }
+ ],
+ "title": "ペロブスカイト薄膜の欠陥激減、300mm SiC、ボイジャー1光日へ",
+ "lines_timed": [
+  {
+   "start": 0.6,
+   "end": 7.136,
+   "show": "おはようございます、ラディです。11/10(火)の朝のサイエンスニュース",
+   "part": 0
+  },
+  {
+   "start": 7.386,
+   "end": 13.981,
+   "show": "今日は薄膜・半導体・宇宙の4本です",
+   "part": 0
+  },
+  {
+   "start": 15.031,
+   "end": 23.727,
+   "show": "ペロブスカイト薄膜の欠陥を大幅削減",
+   "part": 1
+  },
+  {
+   "start": 23.977,
+   "end": 33.091,
+   "show": "太陽電池26.5%・LED 26.1%を達成",
+   "part": 1
+  },
+  {
+   "start": 34.141,
+   "end": 44.346,
+   "show": "Mn3Sn薄膜の量子ホール効果を電流で制御",
+   "part": 2
+  },
+  {
+   "start": 44.596,
+   "end": 53.942,
+   "show": "室温で3次ホール効果、符号を反転",
+   "part": 2
+  },
+  {
+   "start": 54.992,
+   "end": 63.467,
+   "show": "世界初 300mm SiCでパワーデバイス",
+   "part": 3
+  },
+  {
+   "start": 63.717,
+   "end": 73.377,
+   "show": "200mm比2.3倍のチップ数",
+   "part": 3
+  },
+  {
+   "start": 74.427,
+   "end": 85.793,
+   "show": "ボイジャー1号 11/18に1光日へ",
+   "part": 4
+  },
+  {
+   "start": 86.043,
+   "end": 96.26,
+   "show": "距離は約160億マイル、電波は片道24時間",
+   "part": 4
+  },
+  {
+   "start": 97.31,
+   "end": 105.228,
+   "show": "粒界を液体にする発想が両方を押し上げた",
+   "part": 5
+  },
+  {
+   "start": 105.478,
+   "end": 108.403,
+   "show": "今日も良い一日を。ラディでした。",
+   "part": 5
+  }
+ ],
+ "segments": [
+  {
+   "kind": "opening",
+   "index": null,
+   "start": 0.6,
+   "end": 13.981
+  },
+  {
+   "kind": "news",
+   "index": 0,
+   "start": 15.031,
+   "end": 33.091
+  },
+  {
+   "kind": "news",
+   "index": 1,
+   "start": 34.141,
+   "end": 53.942
+  },
+  {
+   "kind": "news",
+   "index": 2,
+   "start": 54.992,
+   "end": 73.377
+  },
+  {
+   "kind": "news",
+   "index": 3,
+   "start": 74.427,
+   "end": 96.26
+  },
+  {
+   "kind": "closing",
+   "index": null,
+   "start": 97.31,
+   "end": 108.403
+  }
+ ],
+ "seconds": 109.9,
+ "made_at": "2026-11-10T05:33:23"
+}
