@@ -1,0 +1,263 @@
+{
+ "title": "記録破りの半導体と、火星へ向かう双子の衛星",
+ "opening": [
+  {
+   "say": "おはようございます、ラディです。十一月十一日水曜日、朝のサイエンスニュースをお届けします。",
+   "show": "おはようございます、ラディです。11/11(水) 朝のサイエンスニュース"
+  },
+  {
+   "say": "きょうは、はくまくの半導体や太陽電池、それに火星へ向かう衛星の話題です。",
+   "show": "今日は薄膜半導体・太陽電池・火星探査機の話題"
+  }
+ ],
+ "news": [
+  {
+   "label": "バンドギャップ七eV、記録破りの半導体",
+   "points": [
+    "コーネル大学がバンドギャップ7eV超の半導体を開発",
+    "薄膜トランジスタ「AlphaFET」も動作を確認",
+    "電気自動車や電力網の高効率化に期待"
+   ],
+   "details": [
+    "シリコンを加えた酸化アルミニウムガリウムの薄膜を、分子線エピタキシーで一層ずつ成長させた。",
+    "6eV超の領域では、従来報告の1億倍以上の室温伝導率を示した。",
+    "研究はNatureに10月7日掲載、コーネル・クロニクルが11月3日に報じた。"
+   ],
+   "url": "https://news.cornell.edu/stories/2026/11/cornell-semiconductor-sets-record-widest-bandgap",
+   "lines": [
+    {
+     "say": "コーネル大学が、バンドギャップ七エレクトロンボルトを超える半導体を作り、トランジスタの動作に成功しました。",
+     "show": "バンドギャップ7eV超の半導体、トランジスタ動作に成功"
+    },
+    {
+     "say": "はくまくの伝導率は、従来の一億倍以上で、電気自動車や電力網の高効率化が期待されます。",
+     "show": "伝導率は従来の1億倍以上、EV・電力網へ期待"
+    }
+   ],
+   "link": {
+    "url": "https://news.cornell.edu/stories/2026/11/cornell-semiconductor-sets-record-widest-bandgap",
+    "title": "Cornell semiconductor sets record for widest bandgap",
+    "site": "Cornell Chronicle",
+    "description": "シリコンを加えた酸化アルミニウムガリウムでバンドギャップ7eV超を達成し、ダイオードとトランジスタAlphaFETを実証した。"
+   }
+  },
+  {
+   "label": "MXene薄膜、酸化で変わる電気の流れ",
+   "points": [
+    "Ti2CTxの薄膜で厚さによる酸化と伝導の関係を解明",
+    "単層は絶縁化、二層以上は金属的な伝導を維持",
+    "印刷エレクトロニクスの設計指針に"
+   ],
+   "details": [
+    "インペリアル・カレッジ・ロンドンなどの国際チームが、単層フレークからスプレー塗布膜まで調べた。",
+    "単層フレークと印刷膜の伝導率は、それぞれ300 S/cm超と10 S/cm超。",
+    "論文はnpj 2D Materials and Applicationsに11月3日掲載。"
+   ],
+   "url": "https://doi.org/10.1038/s41699-026-00748-4",
+   "lines": [
+    {
+     "say": "チタン系マキシンのはくまくでは、厚さによって酸化の進み方と電気の流れが変わることが分かりました。",
+     "show": "MXene薄膜、厚さで変わる酸化と電気伝導"
+    },
+    {
+     "say": "一層だけの膜は絶縁体になりますが、二層以上では内側が金属のまま残り、電気を通し続けます。",
+     "show": "単層は絶縁化、二層以上は金属的な伝導を維持"
+    }
+   ],
+   "link": {
+    "url": "https://doi.org/10.1038/s41699-026-00748-4",
+    "title": "Tunable charge transport in Ti2CTx MXene flakes and printed thin films: a route to designing high-performance MXene devices",
+    "site": "npj 2D Materials and Applications",
+    "description": "Ti2CTxの厚さ依存の酸化が電荷輸送をどう変えるか、単層フレークから印刷薄膜まで調べた研究。"
+   }
+  },
+  {
+   "label": "ペロブスカイト薄膜、欠陥を減らして太陽電池26.5%",
+   "points": [
+    "共晶混合物で結晶粒を大きく育て欠陥を低減",
+    "太陽電池の変換効率26.5%、LEDも26.1%",
+    "同じ構造で発電と発光の両方を実証"
+   ],
+   "details": [
+    "成均館大学などのチームが、塩化メチルアンモニウムとハロゲン化亜鉛の共晶を使った。",
+    "約100℃で粒界が液体化し、原子の拡散が約1万倍速くなって結晶が大きく育つ。",
+    "研究はScienceに掲載、Phys.orgが11月8日に報じた。"
+   ],
+   "url": "https://phys.org/news/2026-11-liquid-crystal-growth-perovskite-defects.html",
+   "lines": [
+    {
+     "say": "ペロブスカイトのはくまくで、結晶の欠陥を大幅に減らす方法が見つかり、太陽電池の効率が二十六点五パーセントに達しました。",
+     "show": "ペロブスカイト薄膜の欠陥低減、太陽電池26.5%"
+    },
+    {
+     "say": "おなじ構造の素子が、発光ダイオードとしても二十六点一パーセントの効率を示しました。",
+     "show": "同じ構造でLEDとしても26.1%を達成"
+    }
+   ],
+   "link": {
+    "url": "https://phys.org/news/2026-11-liquid-crystal-growth-perovskite-defects.html",
+    "title": "Liquid-assisted crystal growth cuts perovskite defects for efficient solar cells and LEDs",
+    "site": "Phys.org",
+    "description": "揮発性共晶でペロブスカイト薄膜の結晶成長を制御し、太陽電池26.5%とLED26.1%を同じ構造で達成したScience掲載の研究。"
+   }
+  },
+  {
+   "label": "双子の火星探査機、火星へ向けて出発",
+   "points": [
+    "NASAのESCAPADE、BlueとGoldが火星遷移噴射に成功",
+    "11月7日と9日に地球フライバイで10分間の燃焼",
+    "2027年9月に火星周回軌道へ投入予定"
+   ],
+   "details": [
+    "ロケット・ラボがNASAとカリフォルニア大学バークレー校のために建造した2機。",
+    "太陽風が火星の大気からイオンを奪う様子を2機で同時に測る。",
+    "ロケット・ラボが11月10日に発表した。"
+   ],
+   "url": "https://www.globenewswire.com/news-release/2026/11/10/3399441/0/en/twin-satellites-built-by-rocket-lab-for-nasa-s-escapade-mission-complete-successful-trans-mars-injection-burns-setting-course-for-the-red-planet.html",
+   "lines": [
+    {
+     "say": "ナサの火星探査機エスケープ、ブルーとゴールドの二機が、地球のそばをかすめながら火星へ向かう噴射に成功しました。",
+     "show": "NASA ESCAPADE、BlueとGoldが火星へ出発"
+    },
+    {
+     "say": "二機は二千二十七年九月に火星のまわりを回る軌道に入り、太陽風が大気を奪う様子を調べます。",
+     "show": "2027年9月に火星周回軌道へ、太陽風と大気流出を観測"
+    }
+   ],
+   "link": {
+    "url": "https://www.globenewswire.com/news-release/2026/11/10/3399441/0/en/twin-satellites-built-by-rocket-lab-for-nasa-s-escapade-mission-complete-successful-trans-mars-injection-burns-setting-course-for-the-red-planet.html",
+    "title": "Twin Satellites Built by Rocket Lab for NASA's ESCAPADE Mission Complete Successful Trans-Mars Injection Burns, Setting Course for the Red Planet",
+    "site": "GlobeNewswire (Rocket Lab)",
+    "description": "NASA ESCAPADEの双子衛星BlueとGoldが11月7日と9日に火星遷移噴射を完了し、火星へ向かった。"
+   }
+  }
+ ],
+ "closing": [
+  {
+   "say": "きょう一番の話題は、七エレクトロンボルトの半導体。はくまくの電気測定が、未来の電力技術につながっています。",
+   "show": "注目は7eV半導体、薄膜の電気測定が未来の電力技術に"
+  },
+  {
+   "say": "それでは、きょうも良い一日を。ラディでした。",
+   "show": "今日も良い一日を。ラディでした。"
+  }
+ ],
+ "highlight": 0,
+ "format": "monoradio/news-1",
+ "date": "2026-11-11",
+ "lang": "ja",
+ "lines_timed": [
+  {
+   "start": 0.6,
+   "end": 7.543,
+   "show": "おはようございます、ラディです。11/11(水) 朝のサイエンスニュース",
+   "part": 0
+  },
+  {
+   "start": 7.793,
+   "end": 13.656,
+   "show": "今日は薄膜半導体・太陽電池・火星探査機の話題",
+   "part": 0
+  },
+  {
+   "start": 14.706,
+   "end": 22.264,
+   "show": "バンドギャップ7eV超の半導体、トランジスタ動作に成功",
+   "part": 1
+  },
+  {
+   "start": 22.514,
+   "end": 30.165,
+   "show": "伝導率は従来の1億倍以上、EV・電力網へ期待",
+   "part": 1
+  },
+  {
+   "start": 31.215,
+   "end": 38.169,
+   "show": "MXene薄膜、厚さで変わる酸化と電気伝導",
+   "part": 2
+  },
+  {
+   "start": 38.419,
+   "end": 46.21,
+   "show": "単層は絶縁化、二層以上は金属的な伝導を維持",
+   "part": 2
+  },
+  {
+   "start": 47.26,
+   "end": 56.722,
+   "show": "ペロブスカイト薄膜の欠陥低減、太陽電池26.5%",
+   "part": 3
+  },
+  {
+   "start": 56.972,
+   "end": 63.357,
+   "show": "同じ構造でLEDとしても26.1%を達成",
+   "part": 3
+  },
+  {
+   "start": 64.407,
+   "end": 72.534,
+   "show": "NASA ESCAPADE、BlueとGoldが火星へ出発",
+   "part": 4
+  },
+  {
+   "start": 72.784,
+   "end": 80.215,
+   "show": "2027年9月に火星周回軌道へ、太陽風と大気流出を観測",
+   "part": 4
+  },
+  {
+   "start": 81.265,
+   "end": 89.821,
+   "show": "注目は7eV半導体、薄膜の電気測定が未来の電力技術に",
+   "part": 5
+  },
+  {
+   "start": 90.071,
+   "end": 92.997,
+   "show": "今日も良い一日を。ラディでした。",
+   "part": 5
+  }
+ ],
+ "segments": [
+  {
+   "kind": "opening",
+   "index": null,
+   "start": 0.6,
+   "end": 13.656
+  },
+  {
+   "kind": "news",
+   "index": 0,
+   "start": 14.706,
+   "end": 30.165
+  },
+  {
+   "kind": "news",
+   "index": 1,
+   "start": 31.215,
+   "end": 46.21
+  },
+  {
+   "kind": "news",
+   "index": 2,
+   "start": 47.26,
+   "end": 63.357
+  },
+  {
+   "kind": "news",
+   "index": 3,
+   "start": 64.407,
+   "end": 80.215
+  },
+  {
+   "kind": "closing",
+   "index": null,
+   "start": 81.265,
+   "end": 92.997
+  }
+ ],
+ "seconds": 94.5,
+ "made_at": "2026-11-11T05:32:46"
+}
