@@ -1,0 +1,263 @@
+{
+ "title": "薄膜の光の罠と、覚える半導体、火星への旅立ち",
+ "opening": [
+  {
+   "say": "おはようございます、ラディです。十一月十二日、木曜日の朝のサイエンスニュースをお届けします。",
+   "show": "おはようございます、ラディです。11/12(木) 朝のサイエンスニュース"
+  },
+  {
+   "say": "きょうは、はくまくの測定の落とし穴から、火星へ向かう探査機まで、四本のニュースです。",
+   "show": "今日は薄膜・半導体・宇宙の4本です"
+  }
+ ],
+ "news": [
+  {
+   "label": "薄膜の光が分子の信号に化ける",
+   "points": [
+    "ペロブスカイト太陽電池の薄膜で、分子の振動に見える信号の正体を検証",
+    "光で生まれた電荷が、膜の中の赤外光の反射を変えていた",
+    "見かけの信号を「CIPR」と命名、分子科学研究所の西田助教ら"
+   ],
+   "details": [
+    "時間分解赤外分光で報告されてきた、励起で急に大きくなる振動吸収は、分子そのものの変化ではなく、膜の層構造による光の干渉でほぼ再現できた。",
+    "薄いナノ結晶をうすめた溶液で測ればこの効果は弱まり、分子本来の信号だけを取り出せる見込み。実験での確認はこれから。",
+    "論文は The Journal of Chemical Physics に掲載され、Editor's Pick に選ばれた。"
+   ],
+   "url": "https://phys.org/news/2026-11-thin-masquerade-molecular-perovskite-solar.html",
+   "lines": [
+    {
+     "say": "ペロブスカイト太陽電池のはくまくで、分子の振動に見えた赤外線の信号が、実は光の反射による見かけのものだと分かりました。",
+     "show": "ペロブスカイト薄膜：分子の信号に見えたのは光の反射だった"
+    },
+    {
+     "say": "光で生まれた電荷が膜の中の反射を変え、振動が変わったように見せていました。測り方の見直しにつながる成果です。",
+     "show": "電荷が膜内の反射を変え、振動が変わったように見せていた"
+    }
+   ],
+   "link": {
+    "url": "https://phys.org/news/2026-11-thin-masquerade-molecular-perovskite-solar.html",
+    "title": "Light reflecting within thin films can masquerade as molecular signals in perovskite solar materials",
+    "site": "Phys.org",
+    "description": "分子科学研究所の西田淳助教らが、ペロブスカイト薄膜の赤外分光で分子信号に見えた特徴が、膜内の光の反射によるものだと理論的に示した。"
+   }
+  },
+  {
+   "label": "感じる・覚える・考える半導体が一枚に",
+   "points": [
+    "窒化アルミニウムガリウムの素子が、光の検出と記憶と処理を一体化",
+    "ごく弱い光も検出でき、300°Cまでの高温でも安定して動作",
+    "画像の分類で90%以上の精度、Nature Materials に掲載"
+   ],
+   "details": [
+    "分極の境界面で電荷を操り、光をためて読み出したり、検出器に切り替えたりできる。",
+    "欠陥に頼る従来方式と違い、工業的に確立した窒化物半導体の製法が使えるのが強み。",
+    "ただし現段階は素子と小さなアレイの実証で、大規模な計算システムへの展開はこれから。"
+   ],
+   "url": "https://phys.org/news/2026-11-iii-nitride-device-memory-sensor.html",
+   "lines": [
+    {
+     "say": "窒化物半導体の一つの素子が、光を感じるセンサーと、記憶と、簡単な処理の働きをひとまとめにしました。",
+     "show": "窒化物半導体1素子に検出・記憶・処理を一体化"
+    },
+    {
+     "say": "ごく弱い光もとらえ、高温でも安定して動きます。カメラの目と脳を近づける、インセンサー計算への一歩です。",
+     "show": "弱い光も検出、300°Cでも安定。インセンサー計算へ"
+    }
+   ],
+   "link": {
+    "url": "https://phys.org/news/2026-11-iii-nitride-device-memory-sensor.html",
+    "title": "III-nitride device integrates sensing and memory for in-sensor computing",
+    "site": "Phys.org",
+    "description": "窒化アルミニウムガリウムの素子が、光の検出と記憶と基本的な処理を一体化した。Nature Materials に掲載。"
+   }
+  },
+  {
+   "label": "原子1個分のガラスは熱をよく通す",
+   "points": [
+    "ガラスを原子1個分の細さまで引き伸ばすと、熱が階段状に流れた",
+    "熱の流れは量子限界の40%に到達、絶縁体では初の観測",
+    "走査型熱プローブ顕微鏡で測定、Nature Nanotechnology に掲載"
+   ],
+   "details": [
+    "ふつうのガラスは原子の並びが乱れていて熱を伝えにくいが、原子1個分の糸では乱れが入る余地がなく、振動がまっすぐ通る。",
+    "二酸化ケイ素はチップの絶縁層に使われており、微細化が進む電子機器の熱設計に役立つ可能性がある。",
+    "研究チームは半導体など他の材料の原子スケールの熱輸送もこの手法で調べる方針。"
+   ],
+   "url": "https://phys.org/news/2026-11-glass-atom-wide-discovery-electronics.html",
+   "lines": [
+    {
+     "say": "ガラスを原子一個分の細さまで引き伸ばすと、断熱材のはずが、熱をよく通すようになることが分かりました。",
+     "show": "原子1個分のガラスは熱をよく通す"
+    },
+    {
+     "say": "熱の流れは、量子の限界の四割に達し、階段のように変化しました。チップの熱設計に役立つ発見です。",
+     "show": "熱流は量子限界の40%に到達。チップの熱設計に"
+    }
+   ],
+   "link": {
+    "url": "https://phys.org/news/2026-11-glass-atom-wide-discovery-electronics.html",
+    "title": "Glass does surprising things when stretched 1 atom wide. The discovery could help shrink electronics",
+    "site": "Phys.org",
+    "description": "ガラスを原子1個分の細さまで引き伸ばすと、熱が量子化して流れることをコロラド大学ボルダー校のチームが初めて観測した。"
+   }
+  },
+  {
+   "label": "双子の探査機、地球を蹴って火星へ",
+   "points": [
+    "NASAのESCAPADE 2機が、地球の引力とエンジン噴射を組み合わせたフライバイに成功",
+    "NASAが火星へ向けてこの手法を使うのは初めて",
+    "2027年9月に火星到着予定、太陽風と大気の逃げ方を調べる"
+   ],
+   "details": [
+    "1機目は11月7日、2機目は11月9日に地球に最接近し、約9分間のエンジン噴射で火星へ向かう軌道に入った。",
+    "打ち上げ時は地球と火星の位置が合わず、ラグランジュ点2の周りを回る待機軌道で1年近く待ってから出発した。",
+    "火星到着後は2機で編隊を組み、太陽風が火星の大気をどう奪うかを同時に観測する。科学観測は2028年6月開始予定。"
+   ],
+   "url": "https://science.nasa.gov/science-research/heliophysics/nasas-escapade-completes-powered-earth-flybys-now-en-route-to-mars/",
+   "lines": [
+    {
+     "say": "ナサの双子の探査機エスカペイドが、地球の引力とエンジンの噴射を組み合わせ、火星へ向かう軌道に乗りました。",
+     "show": "NASAの双子探査機ESCAPADE、地球を蹴って火星へ"
+    },
+    {
+     "say": "火星への到着は、来年の九月の予定です。太陽風が火星の大気をどう奪うのか、二機で同時に調べます。",
+     "show": "火星到着は2027年9月予定。太陽風と大気の謎を調査"
+    }
+   ],
+   "link": {
+    "url": "https://science.nasa.gov/science-research/heliophysics/nasas-escapade-completes-powered-earth-flybys-now-en-route-to-mars/",
+    "title": "NASA's ESCAPADE Completes Powered Earth Flybys, Now En Route to Mars",
+    "site": "NASA",
+    "description": "NASAのESCAPADE 2機が、地球の引力とエンジン噴射を組み合わせた初の火星向け動力フライバイに成功し、2027年9月の火星到着を目指す。"
+   }
+  }
+ ],
+ "closing": [
+  {
+   "say": "きょうの注目は、はくまくの信号の見かけの正体。測る側の思い込みを正す、測定の研究らしい一本でした。",
+   "show": "注目は薄膜の見かけの信号。測定の思い込みを正す一本"
+  },
+  {
+   "say": "それでは、みなさん、よい一日を。明日も朝のサイエンスニュースでお会いしましょう。",
+   "show": "よい一日を。明日も朝のサイエンスニュースで"
+  }
+ ],
+ "highlight": 0,
+ "format": "monoradio/news-1",
+ "date": "2026-11-12",
+ "lang": "ja",
+ "lines_timed": [
+  {
+   "start": 0.6,
+   "end": 7.589,
+   "show": "おはようございます、ラディです。11/12(木) 朝のサイエンスニュース",
+   "part": 0
+  },
+  {
+   "start": 7.839,
+   "end": 14.248,
+   "show": "今日は薄膜・半導体・宇宙の4本です",
+   "part": 0
+  },
+  {
+   "start": 15.298,
+   "end": 24.806,
+   "show": "ペロブスカイト薄膜：分子の信号に見えたのは光の反射だった",
+   "part": 1
+  },
+  {
+   "start": 25.056,
+   "end": 33.183,
+   "show": "電荷が膜内の反射を変え、振動が変わったように見せていた",
+   "part": 1
+  },
+  {
+   "start": 34.233,
+   "end": 42.477,
+   "show": "窒化物半導体1素子に検出・記憶・処理を一体化",
+   "part": 2
+  },
+  {
+   "start": 42.727,
+   "end": 50.749,
+   "show": "弱い光も検出、300°Cでも安定。インセンサー計算へ",
+   "part": 2
+  },
+  {
+   "start": 51.799,
+   "end": 59.264,
+   "show": "原子1個分のガラスは熱をよく通す",
+   "part": 3
+  },
+  {
+   "start": 59.514,
+   "end": 67.734,
+   "show": "熱流は量子限界の40%に到達。チップの熱設計に",
+   "part": 3
+  },
+  {
+   "start": 68.784,
+   "end": 76.493,
+   "show": "NASAの双子探査機ESCAPADE、地球を蹴って火星へ",
+   "part": 4
+  },
+  {
+   "start": 76.743,
+   "end": 84.708,
+   "show": "火星到着は2027年9月予定。太陽風と大気の謎を調査",
+   "part": 4
+  },
+  {
+   "start": 85.758,
+   "end": 94.036,
+   "show": "注目は薄膜の見かけの信号。測定の思い込みを正す一本",
+   "part": 5
+  },
+  {
+   "start": 94.286,
+   "end": 99.789,
+   "show": "よい一日を。明日も朝のサイエンスニュースで",
+   "part": 5
+  }
+ ],
+ "segments": [
+  {
+   "kind": "opening",
+   "index": null,
+   "start": 0.6,
+   "end": 14.248
+  },
+  {
+   "kind": "news",
+   "index": 0,
+   "start": 15.298,
+   "end": 33.183
+  },
+  {
+   "kind": "news",
+   "index": 1,
+   "start": 34.233,
+   "end": 50.749
+  },
+  {
+   "kind": "news",
+   "index": 2,
+   "start": 51.799,
+   "end": 67.734
+  },
+  {
+   "kind": "news",
+   "index": 3,
+   "start": 68.784,
+   "end": 84.708
+  },
+  {
+   "kind": "closing",
+   "index": null,
+   "start": 85.758,
+   "end": 99.789
+  }
+ ],
+ "seconds": 101.29,
+ "made_at": "2026-11-12T05:34:10"
+}
