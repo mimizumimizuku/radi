@@ -1,0 +1,261 @@
+{
+ "title": "ひずみで抵抗が変わるグラフェン、光を逃がさない薄膜",
+ "opening": [
+  {
+   "say": "おはようございます、ラディです。十一月十三日、金曜日です。",
+   "show": "おはようございます、ラディです｜11/13（金）"
+  },
+  {
+   "say": "今日も材料と宇宙の話題を、四本まとめてお届けします。",
+   "show": "今日のサイエンスニュース4本"
+  }
+ ],
+ "news": [
+  {
+   "label": "ひずみで抵抗が百倍変わる魔法角グラフェン",
+   "points": [
+    "ワシントン大学、Science 11/12",
+    "引っ張り・圧縮で抵抗が大きく変化",
+    "普通の金属の100倍以上の変化"
+   ],
+   "details": [
+    "二層グラフェンを1.1度ねじった魔法角グラフェンに、電圧で伸縮する装置でひずみを加えた。",
+    "抵抗の変化は低温でさらに大きくなり、高温超伝導体との共通点も示唆された。"
+   ],
+   "url": "https://phys.org/news/2026-11-magic-angle-graphene-tuning-resistance.html",
+   "lines": [
+    {
+     "say": "原子一層の炭素シートを二枚重ね、わずかにねじったグラフェンに、ひずみを加えました。",
+     "show": "魔法角グラフェンにひずみを加えた"
+    },
+    {
+     "say": "すると電気抵抗が、ふつうの金属の百倍以上も変わり、低温ではその変化がさらに大きくなりました。",
+     "show": "抵抗が100倍以上変化、低温で増幅"
+    }
+   ],
+   "link": {
+    "url": "https://phys.org/news/2026-11-magic-angle-graphene-tuning-resistance.html",
+    "title": "A new twist on 'magic-angle' graphene: Tuning resistance with strain",
+    "site": "Phys.org",
+    "description": "ワシントン大学の研究チームが、魔法角グラフェンにひずみを加えると電気抵抗が大きく変化することをScience誌で報告した。普通の金属の100倍以上の変化で、低温ではさらに増幅された。"
+   }
+  },
+  {
+   "label": "硫化ビスマス薄膜、光を吸って電荷を長持ちさせる",
+   "points": [
+    "オックスフォード大学、Nature 11/12",
+    "薄膜に超短パルスレーザーを照射",
+    "強い吸収と遅い電荷損失を両立"
+   ],
+   "details": [
+    "光をよく吸う材料ほど電荷を早く失うのが太陽電池の課題だった。",
+    "硫化ビスマスはエネルギー準位の配置により、吸収は強く、電荷の損失は遅いことが分かった。",
+    "超高速テラヘルツ分光で絶対零度付近から室温まで測定した。"
+   ],
+   "url": "https://www.univ.ox.ac.uk/news/univ-fellows-publish-solar-energy-capture-breakthrough-study/",
+   "lines": [
+    {
+     "say": "太陽電池の材料、硫化ビスマスのはくまくに、ごく短いレーザーを当てて、電荷の動きを調べました。",
+     "show": "硫化ビスマス薄膜をレーザーで測定"
+    },
+    {
+     "say": "光をよく吸いながら、電荷が失われにくいことが分かり、効率のよい太陽電池への道が開けました。",
+     "show": "強い吸収と長寿命の電荷を両立"
+    }
+   ],
+   "link": {
+    "url": "https://www.univ.ox.ac.uk/news/univ-fellows-publish-solar-energy-capture-breakthrough-study/",
+    "title": "Univ Fellows publish solar energy capture breakthrough study",
+    "site": "University of Oxford",
+    "description": "オックスフォード大学の研究チームが、硫化ビスマスが強い光吸収と遅い電荷損失を両立することを発見し、Nature誌に発表した。より効率のよい太陽電池の設計につながる可能性がある。"
+   }
+  },
+  {
+   "label": "薄膜ニオブ酸リチウムの光検出器、毎秒10ギガビット",
+   "points": [
+    "Nature Communications 11/12",
+    "帯域1.12GHz、10Gbit/sで受信",
+    "量子効率95.6%（638nm）"
+   ],
+   "details": [
+    "薄膜ニオブ酸リチウム導波路に二セレン化タングステンのp-i-n光検出器を集積した。",
+    "電子と正孔の移動度が350cm2/V·sを超え、高速化に寄与した。"
+   ],
+   "url": "https://link.springer.com/article/10.1038/s41467-026-79595-2",
+   "lines": [
+    {
+     "say": "はくまくニオブ酸リチウムの導波路に、二セレン化タングステンの光検出器を組み込みました。",
+     "show": "薄膜ニオブ酸リチウムに光検出器を集積"
+    },
+    {
+     "say": "毎秒十ギガビットの光信号を受け取れて、光チップどうしの高速なやり取りに役立ちます。",
+     "show": "10Gbit/sで受信、光チップの高速化へ"
+    }
+   ],
+   "link": {
+    "url": "https://link.springer.com/article/10.1038/s41467-026-79595-2",
+    "title": "Thin-film lithium niobate waveguide-integrated p-i-n Tungsten selenide photodiodes with 10Gbit/s data reception",
+    "site": "Nature Communications",
+    "description": "薄膜ニオブ酸リチウム導波路に集積した二セレン化タングステンの光検出器が、帯域1.12GHz、毎秒10ギガビットのデータ受信を達成した。光チップ間の高速通信への応用が期待される。"
+   }
+  },
+  {
+   "label": "カイパーベルトに太古の重い水の貯蔵庫か",
+   "points": [
+    "Science Advances、NASA研究チーム",
+    "成層圏で集めた宇宙塵12粒を分析",
+    "酸素18/16比が地球より約15%高い可能性"
+   ],
+   "details": [
+    "太陽エネルギー粒子の傷跡の密度から、カイパーベルト起源と推定された。",
+    "含水鉱物から、低温で重い水と岩石が反応したことが示唆された。",
+    "土星などが内外の物質の混合を妨げた可能性も指摘されている。"
+   ],
+   "url": "https://phys.org/news/2026-11-space-particles-ancient-heavy-oxygen.html",
+   "lines": [
+    {
+     "say": "地球の上空で集めた、わずか十二粒の宇宙のちりを調べると、カイパーベルトの手がかりが見つかりました。",
+     "show": "宇宙塵12粒からカイパーベルトを推定"
+    },
+    {
+     "say": "ちりに残る重い水の痕跡から、太陽系の外側に、太古の水の貯蔵庫があったと考えられます。",
+     "show": "重い水の痕跡、太古の貯蔵庫の可能性"
+    }
+   ],
+   "link": {
+    "url": "https://phys.org/news/2026-11-space-particles-ancient-heavy-oxygen.html",
+    "title": "Space dust particles point to ancient heavy-oxygen water reservoir in the Kuiper belt",
+    "site": "Phys.org",
+    "description": "NASAの研究チームが成層圏で集めた宇宙塵12粒を分析し、カイパーベルトに太古の重い水の貯蔵庫があった可能性を示した。研究はScience Advances誌に掲載された。"
+   }
+  }
+ ],
+ "closing": [
+  {
+   "say": "ひずみで抵抗が大きく変わるグラフェンは、材料の電気の測り方にも、新しいヒントをくれそうです。",
+   "show": "ひずみで抵抗が変わるグラフェンに注目"
+  },
+  {
+   "say": "それでは、今日もよい一日を。ラディでした。",
+   "show": "今日もよい一日を"
+  }
+ ],
+ "highlight": 0,
+ "format": "monoradio/news-1",
+ "date": "2026-11-13",
+ "lang": "ja",
+ "lines_timed": [
+  {
+   "start": 0.6,
+   "end": 5.407,
+   "show": "おはようございます、ラディです｜11/13（金）",
+   "part": 0
+  },
+  {
+   "start": 5.657,
+   "end": 9.766,
+   "show": "今日のサイエンスニュース4本",
+   "part": 0
+  },
+  {
+   "start": 10.816,
+   "end": 16.865,
+   "show": "魔法角グラフェンにひずみを加えた",
+   "part": 1
+  },
+  {
+   "start": 17.115,
+   "end": 24.476,
+   "show": "抵抗が100倍以上変化、低温で増幅",
+   "part": 1
+  },
+  {
+   "start": 25.526,
+   "end": 32.98,
+   "show": "硫化ビスマス薄膜をレーザーで測定",
+   "part": 2
+  },
+  {
+   "start": 33.23,
+   "end": 40.323,
+   "show": "強い吸収と長寿命の電荷を両立",
+   "part": 2
+  },
+  {
+   "start": 41.373,
+   "end": 48.154,
+   "show": "薄膜ニオブ酸リチウムに光検出器を集積",
+   "part": 3
+  },
+  {
+   "start": 48.404,
+   "end": 54.952,
+   "show": "10Gbit/sで受信、光チップの高速化へ",
+   "part": 3
+  },
+  {
+   "start": 56.002,
+   "end": 63.583,
+   "show": "宇宙塵12粒からカイパーベルトを推定",
+   "part": 4
+  },
+  {
+   "start": 63.833,
+   "end": 70.973,
+   "show": "重い水の痕跡、太古の貯蔵庫の可能性",
+   "part": 4
+  },
+  {
+   "start": 72.023,
+   "end": 78.908,
+   "show": "ひずみで抵抗が変わるグラフェンに注目",
+   "part": 5
+  },
+  {
+   "start": 79.158,
+   "end": 82.083,
+   "show": "今日もよい一日を",
+   "part": 5
+  }
+ ],
+ "segments": [
+  {
+   "kind": "opening",
+   "index": null,
+   "start": 0.6,
+   "end": 9.766
+  },
+  {
+   "kind": "news",
+   "index": 0,
+   "start": 10.816,
+   "end": 24.476
+  },
+  {
+   "kind": "news",
+   "index": 1,
+   "start": 25.526,
+   "end": 40.323
+  },
+  {
+   "kind": "news",
+   "index": 2,
+   "start": 41.373,
+   "end": 54.952
+  },
+  {
+   "kind": "news",
+   "index": 3,
+   "start": 56.002,
+   "end": 70.973
+  },
+  {
+   "kind": "closing",
+   "index": null,
+   "start": 72.023,
+   "end": 82.083
+  }
+ ],
+ "seconds": 83.58,
+ "made_at": "2026-11-13T05:31:17"
+}
