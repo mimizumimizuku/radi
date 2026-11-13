@@ -1,0 +1,261 @@
+{
+ "title": "熱が生む軌道電流と、星の隠れた伴星",
+ "opening": [
+  {
+   "say": "おはようございます、ラディです。十一月十四日、土曜日の朝です。",
+   "show": "おはようございます、ラディです｜11/14（土）"
+  },
+  {
+   "say": "きょうは、熱で生まれる電流から、星の爆発の謎まで、四本のニュースです。",
+   "show": "今日は薄膜・半導体・量子・宇宙の4本です"
+  }
+ ],
+ "news": [
+  {
+   "label": "熱で生まれる軌道電流、初の実験証拠",
+   "points": [
+    "台湾大学、Nature Communications 11/13",
+    "酸化銅の薄膜が熱で軌道電流を発生",
+    "軌道電流の信号は白金の約4倍"
+   ],
+   "details": [
+    "温度勾配をかけると、自然酸化した銅の薄膜に、電子の軌道角運動量の横方向の流れが生じることを、台湾大学のチームが初めて実験で示した。",
+    "白金の薄膜で軌道の流れをスピンの流れに変え、磁性絶縁体イットリウム鉄ガーネットの磁化の向きで信号を読み取った。",
+    "符号の反転と信号の増大が、熱による軌道電流の証拠となった。"
+   ],
+   "url": "https://phys.org/news/2026-11-electron-orbital-currents-revealing-experimental.html",
+   "lines": [
+    {
+     "say": "まず、熱から生まれる新しい電流の話題です。台湾大学のチームが、温度の差だけで、電子の軌道の流れを作り出せることを、初めて実験で示しました。",
+     "show": "熱で生まれる軌道電流を初実証"
+    },
+    {
+     "say": "自然に酸化した銅のはくまくに温度勾配をかけると、横向きに軌道電流が生まれ、白金のはくまくを通して電気信号として読み取れました。",
+     "show": "酸化銅の薄膜＋白金薄膜で検出"
+    }
+   ],
+   "link": {
+    "url": "https://phys.org/news/2026-11-electron-orbital-currents-revealing-experimental.html",
+    "title": "Heat drives electron orbital currents, revealing first experimental evidence of orbital Nernst effect",
+    "site": "Phys.org",
+    "description": "台湾大学のチームが、温度勾配による軌道ネルンスト効果を初めて実験で確認。酸化銅薄膜を軌道電流源とし、白金薄膜と磁性絶縁体で電気信号として読み取った。"
+   }
+  },
+  {
+   "label": "光を感じて覚える、窒化物半導体デバイス",
+   "points": [
+    "Nature Materials、中国科学院など",
+    "光の検出と記憶、処理を一つの素子に",
+    "300℃でも動作、画像認識は90%超"
+   ],
+   "details": [
+    "窒化アルミニウムガリウムのヘテロ構造で、分極界面の電荷を制御し、光検出と記憶、基本的な処理を一つの素子にまとめた。",
+    "ナノワット毎平方センチメートルの弱い光を検出し、300℃まで安定に動作した。",
+    "実験で得た素子状態を使った画像認識シミュレーションでは、90%を超える精度が出た。"
+   ],
+   "url": "https://phys.org/news/2026-11-iii-nitride-device-memory-sensor.html",
+   "lines": [
+    {
+     "say": "つぎは、見ることと覚えることを、一つの半導体でこなす話題です。中国などのチームが、窒化物半導体で、光センサーとメモリーを一体化しました。",
+     "show": "光センサーとメモリーを一体化"
+    },
+    {
+     "say": "光を当てると電荷が界面にとどまって記憶になり、電圧を切り替えると検出器に戻ります。三百度でも安定に動きました。",
+     "show": "300℃でも安定動作"
+    }
+   ],
+   "link": {
+    "url": "https://phys.org/news/2026-11-iii-nitride-device-memory-sensor.html",
+    "title": "III-nitride device integrates sensing and memory for in-sensor computing",
+    "site": "Phys.org",
+    "description": "窒化アルミニウムガリウム素子が光検出・記憶・処理を一体化。弱い光の検出と300℃での安定動作、画像認識シミュレーションで90%超の精度を報告。"
+   }
+  },
+  {
+   "label": "光で目覚める分子、量子の鼻へ一歩",
+   "points": [
+    "東京大学とノースウェスタン大学、Nature Communications",
+    "多孔質の結晶にスピンのそろった分子対を作成",
+    "化学物質への応答を確認、MRIの高感度化にも期待"
+   ],
+   "details": [
+    "金属有機構造体の結晶の中に、光で電子を移動させる分子を組み込み、スピンがそろったラジカル対の規則的な配列を作った。",
+    "ラジカル対のスピンの性質が化学物質に応答することを確認し、量子化学センシングへの道を開いた。"
+   ],
+   "url": "https://phys.org/news/2026-11-molecules-porous-crystals-potential-quantum.html",
+   "lines": [
+    {
+     "say": "三本目は、においを量子の目でかぎ分ける研究です。東京大学などの国際チームが、多孔質の結晶の中に、スピンのそろった分子のペアを作りました。",
+     "show": "多孔質結晶にスピン対を配列"
+    },
+    {
+     "say": "光を当てると生まれる分子のペアが、化学物質に反応してスピンの様子を変えます。将来は、エムアールアイの高感度化にもつながるかもしれません。",
+     "show": "“量子の鼻”へ、化学センシング"
+    }
+   ],
+   "link": {
+    "url": "https://phys.org/news/2026-11-molecules-porous-crystals-potential-quantum.html",
+    "title": "Light-activated molecules in porous crystals show potential for quantum chemical sensing",
+    "site": "Phys.org",
+    "description": "東京大学とノースウェスタン大学の国際チームが、金属有機構造体の中にスピン偏極ラジカル対の規則配列を作成。化学物質への応答を確認し、量子化学センシングの基盤を示した。"
+   }
+  },
+  {
+   "label": "超新星もどきの星、隠れた伴星を発見",
+   "points": [
+    "NASAチャンドラ、Astrophysical Journal",
+    "巨大な星が約113日ごとに27回爆発",
+    "犯人はブラックホールか中性子星"
+   ],
+   "details": [
+    "約3000万光年先の銀河にある巨大な星AT 2016bluは、2012年以降、約113日ごとに27回も明るく爆発した。",
+    "チャンドラのX線観測で、伴星のブラックホールか中性子星が接近のたびに物質を引きはがしていることがわかった。"
+   ],
+   "url": "https://science.nasa.gov/missions/chandra/nasas-chandra-finds-source-of-stars-mysterious-outbursts/",
+   "lines": [
+    {
+     "say": "最後は宇宙の話題です。超新星のように爆発しては生き残る、不思議な星の謎が、NASAのチャンドラ望遠鏡で解けました。",
+     "show": "“超新星もどき”の謎を解明"
+    },
+    {
+     "say": "約百十三日ごとに二十七回も爆発した星のそばには、隠れたブラックホールか中性子星がいて、近づくたびに物質を引きはがしていたのです。",
+     "show": "113日ごとに27回爆発"
+    }
+   ],
+   "link": {
+    "url": "https://science.nasa.gov/missions/chandra/nasas-chandra-finds-source-of-stars-mysterious-outbursts/",
+    "title": "NASA’s Chandra Finds Source of Star’s Mysterious Outbursts",
+    "site": "NASA",
+    "description": "チャンドラX線観測所が、巨大な星AT 2016bluの繰り返す爆発の原因が、113日周期で物質を引きはがす隠れたブラックホールか中性子星であることを突き止めた。"
+   }
+  }
+ ],
+ "closing": [
+  {
+   "say": "なかでも、熱の流れから生まれた軌道電流の発見は、はくまくの電気測定の未来をひらく、きょう一番のニュースでした。",
+   "show": "注目は熱が生む軌道電流"
+  },
+  {
+   "say": "それでは、きょうもよい一日を。ラディでした。",
+   "show": "今日も良い一日を。ラディでした。"
+  }
+ ],
+ "highlight": 0,
+ "date": "2026-11-14",
+ "format": "monoradio/news-1",
+ "lang": "ja",
+ "lines_timed": [
+  {
+   "start": 0.6,
+   "end": 5.616,
+   "show": "おはようございます、ラディです｜11/14（土）",
+   "part": 0
+  },
+  {
+   "start": 5.866,
+   "end": 11.694,
+   "show": "今日は薄膜・半導体・量子・宇宙の4本です",
+   "part": 0
+  },
+  {
+   "start": 12.744,
+   "end": 24.447,
+   "show": "熱で生まれる軌道電流を初実証",
+   "part": 1
+  },
+  {
+   "start": 24.697,
+   "end": 34.588,
+   "show": "酸化銅の薄膜＋白金薄膜で検出",
+   "part": 1
+  },
+  {
+   "start": 35.638,
+   "end": 46.668,
+   "show": "光センサーとメモリーを一体化",
+   "part": 2
+  },
+  {
+   "start": 46.918,
+   "end": 55.59,
+   "show": "300℃でも安定動作",
+   "part": 2
+  },
+  {
+   "start": 56.64,
+   "end": 68.007,
+   "show": "多孔質結晶にスピン対を配列",
+   "part": 3
+  },
+  {
+   "start": 68.257,
+   "end": 78.473,
+   "show": "“量子の鼻”へ、化学センシング",
+   "part": 3
+  },
+  {
+   "start": 79.523,
+   "end": 88.15,
+   "show": "“超新星もどき”の謎を解明",
+   "part": 4
+  },
+  {
+   "start": 88.4,
+   "end": 98.779,
+   "show": "113日ごとに27回爆発",
+   "part": 4
+  },
+  {
+   "start": 99.829,
+   "end": 108.594,
+   "show": "注目は熱が生む軌道電流",
+   "part": 5
+  },
+  {
+   "start": 108.844,
+   "end": 111.77,
+   "show": "今日も良い一日を。ラディでした。",
+   "part": 5
+  }
+ ],
+ "segments": [
+  {
+   "kind": "opening",
+   "index": null,
+   "start": 0.6,
+   "end": 11.694
+  },
+  {
+   "kind": "news",
+   "index": 0,
+   "start": 12.744,
+   "end": 34.588
+  },
+  {
+   "kind": "news",
+   "index": 1,
+   "start": 35.638,
+   "end": 55.59
+  },
+  {
+   "kind": "news",
+   "index": 2,
+   "start": 56.64,
+   "end": 78.473
+  },
+  {
+   "kind": "news",
+   "index": 3,
+   "start": 79.523,
+   "end": 98.779
+  },
+  {
+   "kind": "closing",
+   "index": null,
+   "start": 99.829,
+   "end": 111.77
+  }
+ ],
+ "seconds": 113.27,
+ "made_at": "2026-11-14T05:33:07"
+}
