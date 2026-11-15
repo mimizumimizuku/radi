@@ -1,0 +1,263 @@
+{
+ "title": "極薄磁性薄膜とスターシップ帰還、重力波の惑星探し",
+ "opening": [
+  {
+   "say": "おはようございます、ラディです。十一月十六日、月曜日の朝のサイエンスニュースをお届けします。",
+   "show": "おはようございます、ラディです。11/16(月) 朝のサイエンスニュース"
+  },
+  {
+   "say": "きょうは、はくまくの話題から宇宙まで、四本のニュースです。",
+   "show": "薄膜から宇宙まで4本のニュース"
+  }
+ ],
+ "news": [
+  {
+   "label": "極薄の磁性薄膜、省電力チップへ一歩",
+   "points": [
+    "ブラウン大学、Nature Materialsに発表",
+    "ビスマスフェライトを数原子層まで薄く",
+    "電気と磁気の性質を両方とも維持"
+   ],
+   "details": [
+    "下地のジスプロシウムスカンジウム酸塩による圧縮と金属層で「デッド層」を解消",
+    "新たな磁性「アルターマグネティズム」も確認",
+    "低消費電力のメモリーや論理素子への応用に期待。チップの実証はこれから"
+   ],
+   "url": "https://theprint.in/science/magnetic-material-future-ai-computer-chips-faster-energy-efficient/3097846/",
+   "lines": [
+    {
+     "say": "まず、はくまくの話題です。ブラウン大学が、電気と磁気の性質をあわせ持つビスマスフェライトのはくまくを、数原子層の薄さで作りました。",
+     "show": "ブラウン大、ビスマスフェライト薄膜を数原子層で作製"
+    },
+    {
+     "say": "薄くすると失われるはずの性質が残り、新しい磁性も見つかりました。省電力のメモリーやチップへの道が開けます。",
+     "show": "薄くしても性質を維持、新磁性も確認。省電力チップへ"
+    }
+   ],
+   "link": {
+    "url": "https://theprint.in/science/magnetic-material-future-ai-computer-chips-faster-energy-efficient/3097846/",
+    "title": "New magnetic material could make future AI chips energy-efficient",
+    "site": "ThePrint",
+    "description": "ブラウン大学がビスマスフェライトの極薄膜で電気と磁気の性質を維持し、省電力チップへの道を開いた。"
+   }
+  },
+  {
+   "label": "スターシップ、宇宙からの帰還を初キャッチ",
+   "points": [
+    "15回目の試験飛行、地球を14周",
+    "26基のスターリンク衛星を放出",
+    "巨大アームが宇宙船を空中でキャッチ"
+   ],
+   "details": [
+    "宇宙からの帰還機のキャッチは初めて",
+    "ブースターの回収は失敗し、原因を調査中",
+    "NASAは月着陸船としてスターシップに期待"
+   ],
+   "url": "https://www.thehindubusinessline.com/news/science/spacexs-starship-makes-historic-return-caught-by-giant-mechanical-arms/article71703056.ece",
+   "lines": [
+    {
+     "say": "宇宙の話題です。スペースエックスのスターシップが、地球を十四周したあと、巨大なアームに空中でキャッチされました。",
+     "show": "スターシップ、14周の飛行後に空中キャッチ成功"
+    },
+    {
+     "say": "宇宙から戻った宇宙船のキャッチは初めてで、再利用への大きな一歩です。ブースターの回収は失敗しました。",
+     "show": "宇宙からの帰還キャッチは初、再利用へ前進"
+    }
+   ],
+   "link": {
+    "url": "https://www.thehindubusinessline.com/news/science/spacexs-starship-makes-historic-return-caught-by-giant-mechanical-arms/article71703056.ece",
+    "title": "SpaceX makes history with first-ever midair capture of Starship",
+    "site": "The Hindu BusinessLine",
+    "description": "スターシップが15回目の試験飛行で地球を14周し、宇宙からの帰還機として初めて巨大アームにキャッチされた。"
+   }
+  },
+  {
+   "label": "葉脈に学ぶメタマテリアル、衝撃に強く",
+   "points": [
+    "MITとノースイースタン大学、Natureに発表",
+    "葉脈やトンボの羽の網目構造に着想",
+    "衝撃に強く、壊れにくい材料を設計"
+   ],
+   "details": [
+    "3Dプリンターで大きさの異なる梁の網目を造形",
+    "硬さを幅広く調整でき、衝撃を分散して吸収",
+    "ヘルメットや防護具、音響レンズへの応用も"
+   ],
+   "url": "https://news.mit.edu/2026/engineers-design-stronger-resilient-nature-inspired-metamaterials-1111",
+   "lines": [
+    {
+     "say": "つぎは、材料の話題です。エムアイティーとノースイースタン大学が、葉脈やトンボの羽の網目に学んだ新しい材料を発表しました。",
+     "show": "MITとノースイースタン大、葉脈に学ぶ新材料"
+    },
+    {
+     "say": "大きさのちがう梁を網目に組むと、衝撃に強く、壊れにくくなります。ヘルメットや防護具への応用が期待されます。",
+     "show": "大きさの違う梁の網目で衝撃に強く、壊れにくい"
+    }
+   ],
+   "link": {
+    "url": "https://news.mit.edu/2026/engineers-design-stronger-resilient-nature-inspired-metamaterials-1111",
+    "title": "Inspired by networks found in nature, engineers design stronger, more resilient 'metamaterials'",
+    "site": "MIT News",
+    "description": "MITとノースイースタン大学が葉脈など自然の網目に着想したスケールリッチ・メタマテリアルをNatureに発表した。"
+   }
+  },
+  {
+   "label": "重力波で系外惑星を探す、新しい方法",
+   "points": [
+    "NASAの研究、The Astrophysical Journalに掲載",
+    "連星白色矮星の重力波から惑星を検出",
+    "ウェッブ望遠鏡で確認する方法も提案"
+   ],
+   "details": [
+    "銀河系には約1000万組の連星白色矮星があると推定",
+    "惑星の重力で重力波にドップラー変調が生じる",
+    "打ち上げは2030年代半ば、3機の探査機で観測"
+   ],
+   "url": "https://science.nasa.gov/missions/lisa/gravitational-waves-can-reveal-new-worlds/",
+   "lines": [
+    {
+     "say": "最後は、宇宙の話題です。将来の重力波観測機リサが、白色矮星のペアを回る惑星を、重力波のゆらぎから見つけられるかもしれません。",
+     "show": "重力波観測機LISA、白色矮星ペアの惑星を探す"
+    },
+    {
+     "say": "惑星があれば重力波に目印が残り、ウェッブ望遠鏡で確かめられます。銀河系に約一千万組あるとされる連星が舞台です。",
+     "show": "惑星が重力波に目印、ウェッブで確認へ"
+    }
+   ],
+   "link": {
+    "url": "https://science.nasa.gov/missions/lisa/gravitational-waves-can-reveal-new-worlds/",
+    "title": "NASA Scientists Show How Gravitational Waves Can Reveal New Worlds",
+    "site": "NASA Science",
+    "description": "NASAの研究で、将来の重力波観測機LISAが連星白色矮星を回る系外惑星を重力波から検出できる可能性が示された。"
+   }
+  }
+ ],
+ "closing": [
+  {
+   "say": "きょうの注目は、はくまくを数原子層まで薄くしても性質が残ったブラウン大学の成果です。はくまくの研究が、省電力チップをひらくかもしれません。",
+   "show": "注目はブラウン大の極薄磁性薄膜、省電力チップへ"
+  },
+  {
+   "say": "それでは、きょうもよい一日を。ラディでした。",
+   "show": "今日も良い一日を。ラディでした。"
+  }
+ ],
+ "highlight": 0,
+ "format": "monoradio/news-1",
+ "date": "2026-11-16",
+ "lang": "ja",
+ "lines_timed": [
+  {
+   "start": 0.6,
+   "end": 7.647,
+   "show": "おはようございます、ラディです。11/16(月) 朝のサイエンスニュース",
+   "part": 0
+  },
+  {
+   "start": 7.897,
+   "end": 12.1,
+   "show": "薄膜から宇宙まで4本のニュース",
+   "part": 0
+  },
+  {
+   "start": 13.15,
+   "end": 23.344,
+   "show": "ブラウン大、ビスマスフェライト薄膜を数原子層で作製",
+   "part": 1
+  },
+  {
+   "start": 23.594,
+   "end": 31.976,
+   "show": "薄くしても性質を維持、新磁性も確認。省電力チップへ",
+   "part": 1
+  },
+  {
+   "start": 33.026,
+   "end": 41.083,
+   "show": "スターシップ、14周の飛行後に空中キャッチ成功",
+   "part": 2
+  },
+  {
+   "start": 41.333,
+   "end": 48.996,
+   "show": "宇宙からの帰還キャッチは初、再利用へ前進",
+   "part": 2
+  },
+  {
+   "start": 50.046,
+   "end": 59.462,
+   "show": "MITとノースイースタン大、葉脈に学ぶ新材料",
+   "part": 3
+  },
+  {
+   "start": 59.712,
+   "end": 68.175,
+   "show": "大きさの違う梁の網目で衝撃に強く、壊れにくい",
+   "part": 3
+  },
+  {
+   "start": 69.225,
+   "end": 79.872,
+   "show": "重力波観測機LISA、白色矮星ペアの惑星を探す",
+   "part": 4
+  },
+  {
+   "start": 80.122,
+   "end": 89.328,
+   "show": "惑星が重力波に目印、ウェッブで確認へ",
+   "part": 4
+  },
+  {
+   "start": 90.378,
+   "end": 101.443,
+   "show": "注目はブラウン大の極薄磁性薄膜、省電力チップへ",
+   "part": 5
+  },
+  {
+   "start": 101.693,
+   "end": 104.618,
+   "show": "今日も良い一日を。ラディでした。",
+   "part": 5
+  }
+ ],
+ "segments": [
+  {
+   "kind": "opening",
+   "index": null,
+   "start": 0.6,
+   "end": 12.1
+  },
+  {
+   "kind": "news",
+   "index": 0,
+   "start": 13.15,
+   "end": 31.976
+  },
+  {
+   "kind": "news",
+   "index": 1,
+   "start": 33.026,
+   "end": 48.996
+  },
+  {
+   "kind": "news",
+   "index": 2,
+   "start": 50.046,
+   "end": 68.175
+  },
+  {
+   "kind": "news",
+   "index": 3,
+   "start": 69.225,
+   "end": 89.328
+  },
+  {
+   "kind": "closing",
+   "index": null,
+   "start": 90.378,
+   "end": 104.618
+  }
+ ],
+ "seconds": 106.12,
+ "made_at": "2026-11-16T05:33:40"
+}
