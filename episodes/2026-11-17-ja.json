@@ -1,0 +1,263 @@
+{
+ "title": "薄膜の新発見と、火星へ向かった双子探査機",
+ "opening": [
+  {
+   "say": "おはようございます、ラディです。十一月十七日、火曜日の朝のサイエンスニュースをお届けします。",
+   "show": "おはようございます、ラディです。11/17（火）の朝のサイエンスニュース"
+  },
+  {
+   "say": "きょうは、はくまくの話題を中心に、四本のニュースをお伝えします。",
+   "show": "きょうは薄膜を中心に4本お届けします"
+  }
+ ],
+ "news": [
+  {
+   "label": "酸化ガリウム薄膜、電子の重さの謎に迫る",
+   "points": [
+    "北海道大・京都大がα酸化ガリウム薄膜を測定",
+    "電子の有効質量は自由電子の約40％、理論予測25％を上回る",
+    "熱伝導率は約19W/m・K、Ge添加でもほぼ変わらず"
+   ],
+   "details": [
+    "ミストCVDで作ったGeドープα-Ga2O3エピタキシャル薄膜の電気特性と熱伝導を測定（ACS Applied Electronic Materials、2026年）。",
+    "有効質量が重いことが、想定より電子が動きにくい一因の可能性がある。",
+    "Ge添加で電気の流れを改善しつつ、放熱性能は維持できる見通し。"
+   ],
+   "url": "https://phys.org/news/2026-11-heavier-electron-behavior-slower-electrical.html",
+   "lines": [
+    {
+     "say": "北海道大学と京都大学が、次世代のパワー半導体として期待される、酸化ガリウムのはくまくを調べました。",
+     "show": "北大・京大がα-Ga₂O₃薄膜を測定"
+    },
+    {
+     "say": "電子の重さは、自由な電子の四割ほどで、理論の予測より重く、これが流れにくさの一因だといいます。",
+     "show": "電子の有効質量は自由電子の約40％"
+    }
+   ],
+   "link": {
+    "url": "https://phys.org/news/2026-11-heavier-electron-behavior-slower-electrical.html",
+    "title": "Heavier-than-expected electron behavior may explain slower electrical flow in alpha-gallium oxide",
+    "site": "Phys.org",
+    "description": "北海道大学と京都大学がGeドープα-Ga2O3薄膜の有効質量と熱伝導率を測定。有効質量は自由電子の約40％で、理論予測の25％を上回った。"
+   }
+  },
+  {
+   "label": "ペロブスカイト薄膜、欠陥を大幅に減らす結晶成長法",
+   "points": [
+    "SKKUなど国際チームが揮発性共晶を使った結晶成長法を開発",
+    "キャリア寿命は約295μs、表面再結合速度は0.3cm/sと過去最低水準",
+    "太陽電池の変換効率26.5％、LEDの外部量子効率26.1％"
+   ],
+   "details": [
+    "MAClと亜鉛ハライドの混合物が粒界で約100℃で液体化し、原子の拡散を約1万倍に加速して結晶を大きく育てる（Science、2026年）。",
+    "同じ素子構造で太陽電池とLEDの両方を高性能化した。",
+    "高価な専用装置が不要で、実用化への期待も高まる。"
+   ],
+   "url": "https://phys.org/news/2026-11-liquid-crystal-growth-perovskite-defects.html",
+   "lines": [
+    {
+     "say": "韓国の研究チームが、ペロブスカイトのはくまくの欠陥を減らす、新しい結晶の育て方を開発しました。",
+     "show": "ペロブスカイト薄膜の欠陥を大幅削減"
+    },
+    {
+     "say": "太陽電池の効率は二十六点五パーセントで、同じ構造のエルイーディーも高い性能を示しました。",
+     "show": "太陽電池効率26.5％、LEDも26.1％"
+    }
+   ],
+   "link": {
+    "url": "https://phys.org/news/2026-11-liquid-crystal-growth-perovskite-defects.html",
+    "title": "Liquid-assisted crystal growth cuts perovskite defects for efficient solar cells and LEDs",
+    "site": "Phys.org",
+    "description": "成均館大学などの国際チームが揮発性共晶による結晶成長法でペロブスカイト薄膜の欠陥を削減。太陽電池効率26.5％、LED外部量子効率26.1％を達成。"
+   }
+  },
+  {
+   "label": "窒化物半導体、見る・覚える・考えるを一つの素子に",
+   "points": [
+    "中国科学院などが窒化アルミニウムガリウム素子を開発",
+    "光検出・記憶・簡易処理を一つの素子で実現",
+    "300℃でも安定動作、画像分類の精度は90％超"
+   ],
+   "details": [
+    "分極界面の電荷制御で、光で生まれた電子と正孔を分離して蓄える（Nature Materials、2026年）。",
+    "検出モードではナノ秒の速さで応答する。",
+    "欠陥に頼らない方式で、成熟した窒化物プロセスとの統合が期待される。"
+   ],
+   "url": "https://phys.org/news/2026-11-iii-nitride-device-memory-sensor.html",
+   "lines": [
+    {
+     "say": "中国の研究チームが、光を感じることと、記憶すること、計算することを、一つの素子にまとめました。",
+     "show": "AlGaN素子が検出・記憶・処理を一体化"
+    },
+    {
+     "say": "三百度の高温でも安定して動き、画像の分類では九割を超える正しさを出したそうです。",
+     "show": "300℃で安定動作、画像分類90％超"
+    }
+   ],
+   "link": {
+    "url": "https://phys.org/news/2026-11-iii-nitride-device-memory-sensor.html",
+    "title": "III-nitride device integrates sensing and memory for in-sensor computing",
+    "site": "Phys.org",
+    "description": "中国科学院などのチームがAlGaN素子で光検出・記憶・処理を一体化。300℃で安定動作し、画像分類で90％超の精度を示した。"
+   }
+  },
+  {
+   "label": "NASAの双子探査機ESCAPADE、地球を蹴って火星へ",
+   "points": [
+    "11月7日と9日に地球の重力とエンジン噴射を組み合わせた動力フライバイを実施",
+    "火星到着は2027年9月7日と9日の予定",
+    "火星で初めて2機編隊で太陽風と大気の流出を調べる"
+   ],
+   "details": [
+    "2025年11月に打ち上げ後、地球と太陽のラグランジュ点付近で待機し、惑星の並びを待った。",
+    "最接近時のエンジン噴射は約9分間、速度を時速1,600km以上引き上げた。",
+    "2機で同じ場所を数分差で測り、大気の逃げ方を時間変化まで追う。"
+   ],
+   "url": "https://science.nasa.gov/blogs/escapade/2026/11/02/nasas-twin-escapade-spacecraft-to-slingshot-past-earth-on-way-to-mars/",
+   "lines": [
+    {
+     "say": "アメリカ航空宇宙局の双子の探査機エスカペイドが、地球の重力を利用して、火星へ向かいました。",
+     "show": "NASAの双子探査機ESCAPADEが火星へ"
+    },
+    {
+     "say": "二機は来年九月に火星に着き、太陽風が大気を奪う仕組みを、二機で追う計画です。",
+     "show": "2027年9月に火星到着予定"
+    }
+   ],
+   "link": {
+    "url": "https://science.nasa.gov/blogs/escapade/2026/11/02/nasas-twin-escapade-spacecraft-to-slingshot-past-earth-on-way-to-mars/",
+    "title": "NASA's Twin ESCAPADE Spacecraft to Slingshot Past Earth on Way to Mars",
+    "site": "NASA Science",
+    "description": "2機のESCAPADEが11月7日と9日に動力フライバイを実施し火星へ。2027年9月7日・9日に火星到着予定で、太陽風による大気流出を調べる。"
+   }
+  }
+ ],
+ "closing": [
+  {
+   "say": "電子の重さがわかると、パワー半導体の設計も、ぐっと確かなものになりそうです。",
+   "show": "電子の重さが分かれば設計も確かに"
+  },
+  {
+   "say": "それでは、きょうもよい一日を。ラディでした。",
+   "show": "きょうもよい一日を。ラディでした。"
+  }
+ ],
+ "highlight": 0,
+ "format": "monoradio/news-1",
+ "date": "2026-11-17",
+ "lang": "ja",
+ "lines_timed": [
+  {
+   "start": 0.6,
+   "end": 7.601,
+   "show": "おはようございます、ラディです。11/17（火）の朝のサイエンスニュース",
+   "part": 0
+  },
+  {
+   "start": 7.851,
+   "end": 12.564,
+   "show": "きょうは薄膜を中心に4本お届けします",
+   "part": 0
+  },
+  {
+   "start": 13.614,
+   "end": 21.602,
+   "show": "北大・京大がα-Ga₂O₃薄膜を測定",
+   "part": 1
+  },
+  {
+   "start": 21.852,
+   "end": 29.7,
+   "show": "電子の有効質量は自由電子の約40％",
+   "part": 1
+  },
+  {
+   "start": 30.75,
+   "end": 38.68,
+   "show": "ペロブスカイト薄膜の欠陥を大幅削減",
+   "part": 2
+  },
+  {
+   "start": 38.93,
+   "end": 46.082,
+   "show": "太陽電池効率26.5％、LEDも26.1％",
+   "part": 2
+  },
+  {
+   "start": 47.132,
+   "end": 55.282,
+   "show": "AlGaN素子が検出・記憶・処理を一体化",
+   "part": 3
+  },
+  {
+   "start": 55.532,
+   "end": 61.825,
+   "show": "300℃で安定動作、画像分類90％超",
+   "part": 3
+  },
+  {
+   "start": 62.875,
+   "end": 70.073,
+   "show": "NASAの双子探査機ESCAPADEが火星へ",
+   "part": 4
+  },
+  {
+   "start": 70.323,
+   "end": 76.697,
+   "show": "2027年9月に火星到着予定",
+   "part": 4
+  },
+  {
+   "start": 77.747,
+   "end": 83.563,
+   "show": "電子の重さが分かれば設計も確かに",
+   "part": 5
+  },
+  {
+   "start": 83.813,
+   "end": 86.739,
+   "show": "きょうもよい一日を。ラディでした。",
+   "part": 5
+  }
+ ],
+ "segments": [
+  {
+   "kind": "opening",
+   "index": null,
+   "start": 0.6,
+   "end": 12.564
+  },
+  {
+   "kind": "news",
+   "index": 0,
+   "start": 13.614,
+   "end": 29.7
+  },
+  {
+   "kind": "news",
+   "index": 1,
+   "start": 30.75,
+   "end": 46.082
+  },
+  {
+   "kind": "news",
+   "index": 2,
+   "start": 47.132,
+   "end": 61.825
+  },
+  {
+   "kind": "news",
+   "index": 3,
+   "start": 62.875,
+   "end": 76.697
+  },
+  {
+   "kind": "closing",
+   "index": null,
+   "start": 77.747,
+   "end": 86.739
+  }
+ ],
+ "seconds": 88.24,
+ "made_at": "2026-11-17T05:33:15"
+}
