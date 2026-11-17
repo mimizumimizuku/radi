@@ -1,0 +1,263 @@
+{
+ "title": "ボイジャー1光日到達と薄膜・半導体の新研究",
+ "opening": [
+  {
+   "say": "おはようございます、ラディです。十一月十八日、水曜日です。",
+   "show": "おはようございます、ラディです。11月18日（水）"
+  },
+  {
+   "say": "今日も、材料と宇宙の朝のニュースを、四つお届けします。",
+   "show": "今日のサイエンスニュース 4本"
+  }
+ ],
+ "news": [
+  {
+   "label": "ボイジャー1号、地球から「1光日」に到達",
+   "points": [
+    "1977年打ち上げ、49年目の快挙",
+    "光が24時間で進む距離",
+    "通信は片道24時間に"
+   ],
+   "details": [
+    "2026年11月18日午前5時16分（米東部時間）に、ボイジャー1号が地球から約160億マイル（約259億km）の距離に達する。",
+    "光や電波が届くのに24時間かかる距離で、人類の人工物として初めての到達となる。",
+    "NASAは前夜の11月17日に、世界中で光を空に向ける「シャイン・ブライト」企画でこの節目を祝った。"
+   ],
+   "url": "https://science.nasa.gov/mission/voyager/voyager-1/voyager-1-what-is-a-light-day/",
+   "lines": [
+    {
+     "say": "千九百七十七年に打ち上げられたボイジャー一号が、四十九年かけて、今日、光が一日で進む距離に届きます。",
+     "show": "ボイジャー1号、今日「1光日」に到達"
+    },
+    {
+     "say": "地球からの信号が届くのに丸一日かかり、返事が戻るまでにもう一日かかります。人類の人工物で初めてです。",
+     "show": "光が24時間で進む距離・約160億マイル"
+    }
+   ],
+   "link": {
+    "url": "https://science.nasa.gov/mission/voyager/voyager-1/voyager-1-what-is-a-light-day/",
+    "title": "Voyager 1: What Is a Light-Day",
+    "site": "NASA Science",
+    "description": "2026年11月18日、ボイジャー1号が地球から1光日（光が24時間で進む距離）に達する。人類の人工物で初めての到達。"
+   }
+  },
+  {
+   "label": "酸化ガリウム薄膜、電子が重い理由に迫る",
+   "points": [
+    "北海道大学と京都大学の研究",
+    "電子の有効質量は自由電子の約40%",
+    "熱伝導率は約19W/m・K"
+   ],
+   "details": [
+    "北海道大学と京都大学の研究チームは、ミストCVD法で作ったゲルマニウム添加のアルファ酸化ガリウム薄膜の電気特性と熱伝導を測った。",
+    "電子の有効質量は自由電子の約40%で、理論予測の25%より重く、電子が思ったより動きにくい理由の一端とみられる。",
+    "熱伝導率は約19ワット毎メートルケルビンで、ゲルマニウム量を増やしてもほぼ変わらなかった。"
+   ],
+   "url": "https://phys.org/news/2026-11-heavier-electron-behavior-slower-electrical.html",
+   "lines": [
+    {
+     "say": "パワー半導体として注目される酸化ガリウムのはくまくを、北海道大学と京都大学が作り、電子の動きを測りました。",
+     "show": "α-Ga₂O₃薄膜：電子の有効質量は自由電子の約40%"
+    },
+    {
+     "say": "電子の重さは自由な電子の約四割で、理論より重く、熱の伝わり方はゲルマニウムを増やしてもほぼ変わりませんでした。",
+     "show": "熱伝導率 約19W/m・K、Ge量でほぼ不変"
+    }
+   ],
+   "link": {
+    "url": "https://phys.org/news/2026-11-heavier-electron-behavior-slower-electrical.html",
+    "title": "Heavier-than-expected electron behavior may explain slower electrical flow in alpha-gallium oxide",
+    "site": "Phys.org",
+    "description": "北海道大学と京都大学がGe添加α-Ga₂O₃薄膜の電子有効質量と熱伝導率を測定。電子は理論予測より重かった。"
+   }
+  },
+  {
+   "label": "原子層をひっくり返して3Dチップの熱を逃がす",
+   "points": [
+    "東京大学 生産技術研究所の研究",
+    "面内は熱を逃がし、層間は遮断",
+    "熱伝導の異方性は約760倍"
+   ],
+   "details": [
+    "東京大学 生産技術研究所などのチームは、表と裏で原子が異なるヤヌス型のMoSSe原子層を、向きを変えて積み重ねる「フリッピング設計」をACS Nano誌に発表した。",
+    "機械学習で最適な積み方を探し、面内の熱伝導が層間の約760倍になる構造を見つけた。",
+    "3Dに積層した半導体チップで、横方向に熱を逃がしつつ、隣の素子への熱の広がりを抑える設計指針になる。"
+   ],
+   "url": "https://www.nanowerk.com/nanotechnology-news3/newsid=70614.php",
+   "lines": [
+    {
+     "say": "東京大学のチームが、表と裏で原子が違うモリブデンの層を、向きを変えて積み、熱の流れを操りました。",
+     "show": "Janus MoSSe層の向きを変えて積層"
+    },
+    {
+     "say": "横方向には熱をよく逃がし、層の間では伝えにくく、その差はおよそ七百六十倍で、三次元チップの放熱に役立ちます。",
+     "show": "熱伝導の異方性 約760倍（ACS Nano）"
+    }
+   ],
+   "link": {
+    "url": "https://www.nanowerk.com/nanotechnology-news3/newsid=70614.php",
+    "title": "Flipped atom-thin layers could steer heat in 3D computer chips",
+    "site": "Nanowerk",
+    "description": "東大などがヤヌス型MoSSe層の向きを変えて積む設計を提案。面内と層間の熱伝導比は約760倍。"
+   }
+  },
+  {
+   "label": "オン・オフを超えた「四つの状態」の小さなスイッチ",
+   "points": [
+    "ウィーン工科大学の研究",
+    "ガドリニウム・マンガン酸化物を使用",
+    "電気と磁気の結合で制御"
+   ],
+   "details": [
+    "ウィーン工科大学のチームは、ガドリニウム・マンガン・酸素からなるマルチフェロイクス材料で、四つの分極状態を持つ小さなスイッチを作った。",
+    "途中の不安定な状態を「分かれ道」として使うことで、決まった順番だけでなく、小さな電気パルスで別の状態へ移れることを見つけた。",
+    "成果はCommunications Materials誌に掲載され、情報の記憶と処理を一つの材料で担う道が開ける。"
+   ],
+   "url": "https://phys.org/news/2026-11-tiny-harnesses-electrical-states-simple.html",
+   "lines": [
+    {
+     "say": "ウィーン工科大学が、ガドリニウムとマンガンの酸化物を使い、四つの状態を持つ小さなスイッチを作りました。",
+     "show": "GdMn₂O₅で四つの分極状態を実現"
+    },
+    {
+     "say": "途中の不安定な状態を分かれ道にして、小さな電気の刺激で、決まった順番にとらわれず切り替えられます。",
+     "show": "小さな電気パルスで状態を自在に切替"
+    }
+   ],
+   "link": {
+    "url": "https://phys.org/news/2026-11-tiny-harnesses-electrical-states-simple.html",
+    "title": "Tiny switch harnesses four electrical states, moving beyond simple on-off control",
+    "site": "Phys.org",
+    "description": "ウィーン工科大がGdMn₂O₅の四つの分極状態を切り替えるスイッチを開発。電気と磁気の結合を利用。"
+   }
+  }
+ ],
+ "closing": [
+  {
+   "say": "ボイジャー一号の旅は、四十九年たっても、まだ新しい記録を刻んでいます。",
+   "show": "ボイジャー1号、49年目も新記録"
+  },
+  {
+   "say": "それでは、今日もよい一日を。ラディでした。",
+   "show": "また明日、お会いしましょう。"
+  }
+ ],
+ "highlight": 0,
+ "format": "monoradio/news-1",
+ "date": "2026-11-18",
+ "lang": "ja",
+ "lines_timed": [
+  {
+   "start": 0.6,
+   "end": 5.511,
+   "show": "おはようございます、ラディです。11月18日（水）",
+   "part": 0
+  },
+  {
+   "start": 5.761,
+   "end": 9.929,
+   "show": "今日のサイエンスニュース 4本",
+   "part": 0
+  },
+  {
+   "start": 10.979,
+   "end": 19.907,
+   "show": "ボイジャー1号、今日「1光日」に到達",
+   "part": 1
+  },
+  {
+   "start": 20.157,
+   "end": 28.667,
+   "show": "光が24時間で進む距離・約160億マイル",
+   "part": 1
+  },
+  {
+   "start": 29.717,
+   "end": 38.518,
+   "show": "α-Ga₂O₃薄膜：電子の有効質量は自由電子の約40%",
+   "part": 2
+  },
+  {
+   "start": 38.768,
+   "end": 47.603,
+   "show": "熱伝導率 約19W/m・K、Ge量でほぼ不変",
+   "part": 2
+  },
+  {
+   "start": 48.653,
+   "end": 56.849,
+   "show": "Janus MoSSe層の向きを変えて積層",
+   "part": 3
+  },
+  {
+   "start": 57.099,
+   "end": 66.736,
+   "show": "熱伝導の異方性 約760倍（ACS Nano）",
+   "part": 3
+  },
+  {
+   "start": 67.786,
+   "end": 75.53,
+   "show": "GdMn₂O₅で四つの分極状態を実現",
+   "part": 4
+  },
+  {
+   "start": 75.78,
+   "end": 83.222,
+   "show": "小さな電気パルスで状態を自在に切替",
+   "part": 4
+  },
+  {
+   "start": 84.272,
+   "end": 89.972,
+   "show": "ボイジャー1号、49年目も新記録",
+   "part": 5
+  },
+  {
+   "start": 90.222,
+   "end": 93.148,
+   "show": "また明日、お会いしましょう。",
+   "part": 5
+  }
+ ],
+ "segments": [
+  {
+   "kind": "opening",
+   "index": null,
+   "start": 0.6,
+   "end": 9.929
+  },
+  {
+   "kind": "news",
+   "index": 0,
+   "start": 10.979,
+   "end": 28.667
+  },
+  {
+   "kind": "news",
+   "index": 1,
+   "start": 29.717,
+   "end": 47.603
+  },
+  {
+   "kind": "news",
+   "index": 2,
+   "start": 48.653,
+   "end": 66.736
+  },
+  {
+   "kind": "news",
+   "index": 3,
+   "start": 67.786,
+   "end": 83.222
+  },
+  {
+   "kind": "closing",
+   "index": null,
+   "start": 84.272,
+   "end": 93.148
+  }
+ ],
+ "seconds": 94.65,
+ "made_at": "2026-11-18T05:32:34"
+}
