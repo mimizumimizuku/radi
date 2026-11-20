@@ -1,0 +1,263 @@
+{
+ "title": "市販工程の薄膜インダクタとボイジャー1号",
+ "opening": [
+  {
+   "say": "おはようございます、ラディです。十一月二十一日、土曜日の朝のサイエンスニュースです。",
+   "show": "おはようございます、ラディです。11月21日(土)の朝のサイエンスニュースです。"
+  },
+  {
+   "say": "今日は、はくまくと宇宙、それに新しい材料の話題を、四本お届けします。",
+   "show": "今日は、薄膜と宇宙、新しい材料の話題を4本お届けします。"
+  }
+ ],
+ "news": [
+  {
+   "label": "市販のCMOS工程で作る超伝導インダクタ",
+   "points": [
+    "TiN薄膜を超伝導インダクタに活用",
+    "22nm CMOSプロセスで作製",
+    "量子ドット読み出しセンサーに応用"
+   ],
+   "details": [
+    "Nature Electronicsの2026年11月20日付の解説記事で紹介された研究。",
+    "Quantum Motionなどが、GlobalFoundriesの22nmプロセスに元からある窒化チタン薄膜を使った。",
+    "従来のらせん状インダクタに比べ、インダクタンス密度が4桁向上したという。"
+   ],
+   "url": "https://www.nature.com/articles/s41928-026-01748-4",
+   "lines": [
+    {
+     "say": "量子コンピューター向けの超伝導インダクタを、市販の半導体工程にある窒化チタンの、はくまくで作りました。",
+     "show": "市販CMOS工程のTiN薄膜で超伝導インダクタを作製"
+    },
+    {
+     "say": "シリコンの量子ドットと組み合わせたセンサーは、面積わずか十八平方マイクロメートルで、感度も高まりました。",
+     "show": "18μm²の量子ドットセンサーで高感度を実現"
+    }
+   ],
+   "link": {
+    "url": "https://www.nature.com/articles/s41928-026-01748-4",
+    "title": "CMOS surprises",
+    "site": "Nature Electronics",
+    "description": "市販のCMOS工程に元からある窒化チタン薄膜で高性能な超伝導インダクタを作り、量子ドット読み出しセンサーに応用した研究を紹介する解説記事。"
+   }
+  },
+  {
+   "label": "ボイジャー1号、光の一日先へ",
+   "points": [
+    "地球から約259億kmに到達",
+    "到達は11月18日、確認は19日",
+    "信号が届くまで丸一日かかる"
+   ],
+   "details": [
+    "NASAが2026年11月19日に発表した。",
+    "1977年の打ち上げから49年余りで、人工物として初の到達。",
+    "11月14日以降、科学データは届いていないが、搬送波と軌道計算で確認したという。"
+   ],
+   "url": "https://www.nasa.gov/news-release/nasas-voyager-1-makes-history-reaching-one-light-day-from-earth/",
+   "lines": [
+    {
+     "say": "ボイジャー一号が、十一月十八日、光が一日かけて進む距離、およそ二百五十九億キロメートルに到達しました。",
+     "show": "ボイジャー1号が11月18日、光の一日先に到達"
+    },
+    {
+     "say": "打ち上げから四十九年あまり、人工物として初めての到達です。信号が届くまで、丸一日かかります。",
+     "show": "地球から約259億km、信号は丸一日かかる"
+    }
+   ],
+   "link": {
+    "url": "https://www.nasa.gov/news-release/nasas-voyager-1-makes-history-reaching-one-light-day-from-earth/",
+    "title": "NASA’s Voyager 1 Makes History Reaching One Light-Day From Earth",
+    "site": "NASA",
+    "description": "ボイジャー1号が11月18日に地球から光の一日分の距離に到達し、人工物として初の記録となったことを伝えるNASAのプレスリリース。"
+   }
+  },
+  {
+   "label": "金属のように電気を通す金属有機材料",
+   "points": [
+    "銅と硫黄の鎖が電気を運ぶ",
+    "導電率は最大120 S/cm",
+    "赤外光で8,100 A/Wの光応答"
+   ],
+   "details": [
+    "台湾の研究チームによるもので、Advanced Scienceに掲載された。",
+    "片方のスピンは金属、もう片方は半導体というハーフメタル状態を示す。",
+    "光センサーやスピントロニクスへの応用が期待される。"
+   ],
+   "url": "https://phys.org/news/2026-11-metal-material-combines-metallic-electronics.html",
+   "lines": [
+    {
+     "say": "銅と硫黄の鎖をもつ新しい材料が、金属のように電気を通し、光にも鋭く反応することが分かりました。",
+     "show": "銅-硫黄鎖の新材料が金属のように電気を通す"
+    },
+    {
+     "say": "台湾の研究チームの成果で、導電率は最大で百二十ジーメンス毎センチメートル、赤外光への反応も、とても大きいそうです。",
+     "show": "導電率 最大120 S/cm、赤外光応答 8,100 A/W"
+    }
+   ],
+   "link": {
+    "url": "https://phys.org/news/2026-11-metal-material-combines-metallic-electronics.html",
+    "title": "New metal-organic material combines metallic conductivity with promise for light-sensing electronics",
+    "site": "Phys.org",
+    "description": "銅-硫黄鎖をもつ金属有機材料が金属的な導電性と高い光応答を示し、ハーフメタル状態も持つことを報告する記事。"
+   }
+  },
+  {
+   "label": "百万個の結晶で半導体を探す",
+   "points": [
+    "2cmのチップに約100万個の結晶",
+    "核は臭素、殻はヨウ素と判明",
+    "組成と光の性質の地図を作成"
+   ],
+   "details": [
+    "ノースウェスタン大学の研究で、Advanced Materialsに掲載された。",
+    "鉛を使わないペロブスカイト類似材料が対象。",
+    "太陽電池やLEDの材料選びに役立つという。"
+   ],
+   "url": "https://phys.org/news/2026-11-million-tiny-crystals-reveal-semiconductors.html",
+   "lines": [
+    {
+     "say": "二センチのチップに、およそ百万個の小さな結晶を並べ、半導体の材料探しを速くする技術が生まれました。",
+     "show": "2cmチップに約100万個の結晶を並べ材料探索"
+    },
+    {
+     "say": "結晶の中では、中心が臭素に富み、外側がヨウ素に富む二重構造で、光の吸収を決める仕組みが見えてきました。",
+     "show": "結晶は臭素の核とヨウ素の殻の二重構造"
+    }
+   ],
+   "link": {
+    "url": "https://phys.org/news/2026-11-million-tiny-crystals-reveal-semiconductors.html",
+    "title": "A million tiny crystals reveal how semiconductors form distinct cores and shells",
+    "site": "Phys.org",
+    "description": "2cmのチップに約100万個の結晶を並べたメガライブラリで、半導体結晶の核と殻の分離構造を明らかにした研究を紹介する記事。"
+   }
+  }
+ ],
+ "closing": [
+  {
+   "say": "市販の工程にある、はくまくが、量子コンピューターを進めるとは、材料の面白さですね。",
+   "show": "市販工程の薄膜が、量子コンピューターを進める面白さですね。"
+  },
+  {
+   "say": "それでは、よい一日を。明日も、ラディでお会いしましょう。",
+   "show": "それでは、よい一日を。明日もラディでお会いしましょう。"
+  }
+ ],
+ "highlight": 0,
+ "format": "monoradio/news-1",
+ "date": "2026-11-21",
+ "lang": "ja",
+ "lines_timed": [
+  {
+   "start": 0.6,
+   "end": 7.032,
+   "show": "おはようございます、ラディです。11月21日(土)の朝のサイエンスニュースです。",
+   "part": 0
+  },
+  {
+   "start": 7.282,
+   "end": 13.18,
+   "show": "今日は、薄膜と宇宙、新しい材料の話題を4本お届けします。",
+   "part": 0
+  },
+  {
+   "start": 14.23,
+   "end": 21.718,
+   "show": "市販CMOS工程のTiN薄膜で超伝導インダクタを作製",
+   "part": 1
+  },
+  {
+   "start": 21.968,
+   "end": 29.956,
+   "show": "18μm²の量子ドットセンサーで高感度を実現",
+   "part": 1
+  },
+  {
+   "start": 31.006,
+   "end": 40.329,
+   "show": "ボイジャー1号が11月18日、光の一日先に到達",
+   "part": 2
+  },
+  {
+   "start": 40.579,
+   "end": 48.601,
+   "show": "地球から約259億km、信号は丸一日かかる",
+   "part": 2
+  },
+  {
+   "start": 49.651,
+   "end": 57.825,
+   "show": "銅-硫黄鎖の新材料が金属のように電気を通す",
+   "part": 3
+  },
+  {
+   "start": 58.075,
+   "end": 67.653,
+   "show": "導電率 最大120 S/cm、赤外光応答 8,100 A/W",
+   "part": 3
+  },
+  {
+   "start": 68.703,
+   "end": 76.992,
+   "show": "2cmチップに約100万個の結晶を並べ材料探索",
+   "part": 4
+  },
+  {
+   "start": 77.242,
+   "end": 86.031,
+   "show": "結晶は臭素の核とヨウ素の殻の二重構造",
+   "part": 4
+  },
+  {
+   "start": 87.081,
+   "end": 93.641,
+   "show": "市販工程の薄膜が、量子コンピューターを進める面白さですね。",
+   "part": 5
+  },
+  {
+   "start": 93.891,
+   "end": 97.931,
+   "show": "それでは、よい一日を。明日もラディでお会いしましょう。",
+   "part": 5
+  }
+ ],
+ "segments": [
+  {
+   "kind": "opening",
+   "index": null,
+   "start": 0.6,
+   "end": 13.18
+  },
+  {
+   "kind": "news",
+   "index": 0,
+   "start": 14.23,
+   "end": 29.956
+  },
+  {
+   "kind": "news",
+   "index": 1,
+   "start": 31.006,
+   "end": 48.601
+  },
+  {
+   "kind": "news",
+   "index": 2,
+   "start": 49.651,
+   "end": 67.653
+  },
+  {
+   "kind": "news",
+   "index": 3,
+   "start": 68.703,
+   "end": 86.031
+  },
+  {
+   "kind": "closing",
+   "index": null,
+   "start": 87.081,
+   "end": 97.931
+  }
+ ],
+ "seconds": 99.43,
+ "made_at": "2026-11-21T05:32:05"
+}
