@@ -1,0 +1,263 @@
+{
+ "title": "曲げに強い薄膜と、光の一日先へ進んだボイジャー",
+ "opening": [
+  {
+   "say": "おはようございます、ラディです。十一月二十二日、日曜日の朝のサイエンスニュースをお届けします。",
+   "show": "おはようございます、ラディです。11/22（日）の朝のサイエンスニュース"
+  },
+  {
+   "say": "きょうは、はくまくと半導体、量子の話題に、宇宙の大きな節目を加えてお伝えします。",
+   "show": "きょうは薄膜・半導体・量子・宇宙の4本です"
+  }
+ ],
+ "news": [
+  {
+   "label": "曲げても電気が途切れにくい薄膜",
+   "points": [
+    "銅と二硫化モリブデンの交互積層",
+    "繰り返し曲げても抵抗がほぼ一定に",
+    "フレキシブル電子機器の長寿命化へ"
+   ],
+   "details": [
+    "金属薄膜は繰り返し曲げると疲労亀裂が進み、抵抗が上がって電気的に壊れてしまうことが課題だった。",
+    "銅の層の間に薄い二硫化モリブデンの層を挟むと、亀裂の広がりが抑えられ、抵抗が低いまま安定した。",
+    "発光デバイスでも長期の繰り返し動作で安定性が確認された。"
+   ],
+   "url": "https://pubs.acs.org/nalefd/article-abstract/doi/10.1021/acs.nanolett.6c04902/5474460/Enhanced-Fatigue-Resistance-in-Nanolayered-Cu-MoS2?redirectedFrom=fulltext",
+   "lines": [
+    {
+     "say": "まず、曲げても電気が途切れにくい、はくまくの話題です。銅の層と、二硫化モリブデンの層を、交互に重ねた膜を作りました。",
+     "show": "曲げても電気が途切れにくい薄膜"
+    },
+    {
+     "say": "繰り返し曲げても、抵抗は低いまま安定し、純粋な銅の膜とは対照的でした。しなやかな電子機器の長寿命化につながります。",
+     "show": "Cu/MoS₂積層膜は繰り返し曲げても抵抗が安定"
+    }
+   ],
+   "link": {
+    "url": "https://pubs.acs.org/nalefd/article-abstract/doi/10.1021/acs.nanolett.6c04902/5474460/Enhanced-Fatigue-Resistance-in-Nanolayered-Cu-MoS2?redirectedFrom=fulltext",
+    "title": "Enhanced Fatigue Resistance in Nanolayered Cu/MoS2 Films via Synergistic In-Plane and Out-of-Plane Crack Control",
+    "site": "ACS Publications（Nano Letters）",
+    "description": "銅と二硫化モリブデンを交互に積層したナノ層状薄膜が、繰り返し曲げでも抵抗を安定に保ち、フレキシブル電子機器の耐久性向上につながる研究。2026年11月21日公開。"
+   }
+  },
+  {
+   "label": "百万個の結晶で半導体を地図化",
+   "points": [
+    "2cmのチップに約100万個の微結晶",
+    "核は臭素、殻はヨウ素に分かれる",
+    "組成と光の吸収の関係を地図に"
+   ],
+   "details": [
+    "鉛を使わないペロブスカイト類似材料の組成を少しずつ変えた結晶を、チップ上に百万個並べて調べた。",
+    "結晶の中では臭素に富む核とヨウ素に富む殻に分かれ、核と殻で原子の並び方が違うことが分かった。",
+    "吸収する光のエネルギーは組成だけでなく、こうした内部構造にも左右される。"
+   ],
+   "url": "https://phys.org/news/2026-11-million-tiny-crystals-reveal-semiconductors.html",
+   "lines": [
+    {
+     "say": "つぎは、半導体の材料探しの話題です。二センチ角のチップに、およそ百万個の小さな結晶を並べました。",
+     "show": "2cmチップに約100万個の微結晶"
+    },
+    {
+     "say": "ひとつの結晶の中が、臭素の核と、ヨウ素の殻に分かれていて、吸収する光が変わることが分かりました。",
+     "show": "核と殻で分かれ、光の吸収が変わる"
+    }
+   ],
+   "link": {
+    "url": "https://phys.org/news/2026-11-million-tiny-crystals-reveal-semiconductors.html",
+    "title": "A million tiny crystals reveal how semiconductors form distinct cores and shells",
+    "site": "Phys.org",
+    "description": "ノースウェスタン大学のチームが、組成の異なる微結晶を百万個並べたチップで、半導体材料の組成・構造・光学特性の関係を地図化した。2026年11月20日掲載。"
+   }
+  },
+  {
+   "label": "光のように動く励起子を確認",
+   "points": [
+    "原子一層の窒化ホウ素で観測",
+    "励起子が秒速約10万mで直線的に移動",
+    "10年前の理論予測を実証"
+   ],
+   "details": [
+    "励起子は、電子と正孔が結びついた粒子で、太陽電池やLEDの動作の鍵を握る。",
+    "イェール大学のチームは、単層の六方晶窒化ホウ素を電子エネルギー損失分光で測り、励起子が質量のない光子のようになめらかに動くことを確認した。",
+    "バンドギャップが従来の想定より広いことも分かった。"
+   ],
+   "url": "https://phys.org/news/2026-11-excitons-mimic-atom-thin-material.html",
+   "lines": [
+    {
+     "say": "三つ目は、量子の話題です。原子一層の窒化ホウ素の中で、励起子が光のように動く様子をとらえました。",
+     "show": "原子一層のhBNで励起子を観測"
+    },
+    {
+     "say": "質量があるはずの粒子が、秒速およそ十万メートルで、まっすぐに進んだのです。十年越しの予測の実証です。",
+     "show": "秒速約10万mで直線的に移動"
+    }
+   ],
+   "link": {
+    "url": "https://phys.org/news/2026-11-excitons-mimic-atom-thin-material.html",
+    "title": "Excitons mimic light in atom-thin material, confirming decade-old quantum prediction",
+    "site": "Phys.org",
+    "description": "イェール大学のチームが単層hBNで励起子の線形分散を初めて観測し、10年前の理論予測を実証した。Nature Physics掲載。2026年11月20日掲載。"
+   }
+  },
+  {
+   "label": "ボイジャー1号、光の一日先へ",
+   "points": [
+    "地球から約259億kmに到達",
+    "光でも信号に24時間かかる",
+    "1977年打ち上げから49年以上"
+   ],
+   "details": [
+    "ボイジャー1号は11月18日、地球から光が24時間かけて届く距離「1光日」に到達した。",
+    "信号が届くまで丸一日かかるため、到達の確認は翌19日になった。",
+    "11月14日以降、科学データは届いていないが、搬送波の信号と軌道計算で到達が確認された。"
+   ],
+   "url": "https://www.nasa.gov/news-release/nasas-voyager-1-makes-history-reaching-one-light-day-from-earth/",
+   "lines": [
+    {
+     "say": "最後は宇宙です。ボイジャー一号が、地球から光の一日先の距離に到達しました。およそ二百五十九億キロメートルです。",
+     "show": "ボイジャー1号が1光日に到達"
+    },
+    {
+     "say": "信号が届くまで丸一日かかるため、確認は翌日になりました。打ち上げから四十九年を超える旅は、まだ続いています。",
+     "show": "約259億km、信号に24時間"
+    }
+   ],
+   "link": {
+    "url": "https://www.nasa.gov/news-release/nasas-voyager-1-makes-history-reaching-one-light-day-from-earth/",
+    "title": "NASA's Voyager 1 Makes History Reaching One Light-Day From Earth",
+    "site": "NASA",
+    "description": "ボイジャー1号が2026年11月18日に地球から1光日（約259億km）に到達し、人工物として初の快挙を達成した。NASAが11月19日に発表。"
+   }
+  }
+ ],
+ "closing": [
+  {
+   "say": "光が一日かかる場所からも、まだ届く声がある。そんな旅の続きに、朝からわくわくします。",
+   "show": "光の一日先からも届く、ボイジャーの声"
+  },
+  {
+   "say": "それでは、きょうも良い一日を。ラディでした。",
+   "show": "きょうも良い一日を。ラディでした。"
+  }
+ ],
+ "highlight": 3,
+ "format": "monoradio/news-1",
+ "date": "2026-11-22",
+ "lang": "ja",
+ "lines_timed": [
+  {
+   "start": 0.6,
+   "end": 7.845,
+   "show": "おはようございます、ラディです。11/22（日）の朝のサイエンスニュース",
+   "part": 0
+  },
+  {
+   "start": 8.095,
+   "end": 14.677,
+   "show": "きょうは薄膜・半導体・量子・宇宙の4本です",
+   "part": 0
+  },
+  {
+   "start": 15.727,
+   "end": 25.166,
+   "show": "曲げても電気が途切れにくい薄膜",
+   "part": 1
+  },
+  {
+   "start": 25.416,
+   "end": 35.076,
+   "show": "Cu/MoS₂積層膜は繰り返し曲げても抵抗が安定",
+   "part": 1
+  },
+  {
+   "start": 36.126,
+   "end": 44.392,
+   "show": "2cmチップに約100万個の微結晶",
+   "part": 2
+  },
+  {
+   "start": 44.642,
+   "end": 52.363,
+   "show": "核と殻で分かれ、光の吸収が変わる",
+   "part": 2
+  },
+  {
+   "start": 53.413,
+   "end": 61.482,
+   "show": "原子一層のhBNで励起子を観測",
+   "part": 3
+  },
+  {
+   "start": 61.732,
+   "end": 70.021,
+   "show": "秒速約10万mで直線的に移動",
+   "part": 3
+  },
+  {
+   "start": 71.071,
+   "end": 80.371,
+   "show": "ボイジャー1号が1光日に到達",
+   "part": 4
+  },
+  {
+   "start": 80.621,
+   "end": 89.874,
+   "show": "約259億km、信号に24時間",
+   "part": 4
+  },
+  {
+   "start": 90.924,
+   "end": 97.669,
+   "show": "光の一日先からも届く、ボイジャーの声",
+   "part": 5
+  },
+  {
+   "start": 97.919,
+   "end": 100.845,
+   "show": "きょうも良い一日を。ラディでした。",
+   "part": 5
+  }
+ ],
+ "segments": [
+  {
+   "kind": "opening",
+   "index": null,
+   "start": 0.6,
+   "end": 14.677
+  },
+  {
+   "kind": "news",
+   "index": 0,
+   "start": 15.727,
+   "end": 35.076
+  },
+  {
+   "kind": "news",
+   "index": 1,
+   "start": 36.126,
+   "end": 52.363
+  },
+  {
+   "kind": "news",
+   "index": 2,
+   "start": 53.413,
+   "end": 70.021
+  },
+  {
+   "kind": "news",
+   "index": 3,
+   "start": 71.071,
+   "end": 89.874
+  },
+  {
+   "kind": "closing",
+   "index": null,
+   "start": 90.924,
+   "end": 100.845
+  }
+ ],
+ "seconds": 102.35,
+ "made_at": "2026-11-22T05:32:29"
+}
