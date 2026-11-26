@@ -1,0 +1,259 @@
+{
+ "title": "伸びる半導体と原子一層の金属、逃げるパルサー",
+ "opening": [
+  {
+   "say": "おはようございます、ラディです。十一月二十七日、金曜日の朝のサイエンスニュースです。",
+   "show": "おはようございます、ラディです。11/27（金）の朝のサイエンスニュースです。"
+  },
+  {
+   "say": "きょうは、伸びる半導体と原子一層の金属など、四つの話題をお届けします。",
+   "show": "今日は伸びる半導体、原子1層の金属など4つの話題です。"
+  }
+ ],
+ "news": [
+  {
+   "label": "ルービックキューブ分子で伸びる半導体",
+   "points": [
+    "トロント大学が伸縮性プラスチック半導体を開発",
+    "伸びは2倍以上、導電性はほぼ維持",
+    "結晶を小さく保つ仕組みを放射光で確認"
+   ],
+   "details": [
+    "ブルバレンという形を変え続ける分子を少量加えると、結晶構造がほぐれて柔らかくなった。",
+    "研究は Angewandte Chemie International Edition に掲載。体内埋め込み型デバイスへの応用が期待される。"
+   ],
+   "url": "https://phys.org/news/2026-11-rubik-cube-molecule-gen-semiconductors.html",
+   "lines": [
+    {
+     "say": "まず、伸びる半導体です。トロント大学は、ルービックキューブのように形を変え続ける分子を加え、プラスチック半導体を伸びやすくしました。",
+     "show": "トロント大、形を変える分子でプラスチック半導体を伸縮自在に"
+    },
+    {
+     "say": "二倍以上伸びても割れず、電気はほぼ同じように流れます。結晶が小さく残ったおかげだと、放射光の観察で確かめました。",
+     "show": "2倍以上伸びても割れず、導電性はほぼ維持"
+    }
+   ],
+   "link": {
+    "url": "https://phys.org/news/2026-11-rubik-cube-molecule-gen-semiconductors.html",
+    "title": "'Rubik's Cube molecule' puts the stretch in next-gen semiconductors",
+    "site": "Phys.org",
+    "description": "トロント大学がブルバレンを加えた導電性プラスチックを開発。2倍以上伸びても割れず導電性をほぼ維持し、Angewandte Chemie International Edition に掲載。"
+   }
+  },
+  {
+   "label": "MOF薄膜で光の化学反応を操る",
+   "points": [
+    "カールスルーエ工科大らがMOF薄膜で光反応を制御",
+    "リンカー設計で副反応を抑え重合が進行",
+    "最大6単位のオリゴマーを固体中で合成"
+   ],
+   "details": [
+    "光で生じる反応性の高いニトレンを、結晶格子に並べたリンカーで制御した。",
+    "ACS Omega に2026年11月26日掲載。光応答性ポリマーや分子エレクトロニクスへの応用が見込まれる。"
+   ],
+   "url": "https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c06679/5476967/Suppressing-Intramolecular-C-H-Insertion-Enables",
+   "lines": [
+    {
+     "say": "つぎは、はくまくの話題です。ドイツの研究チームは、金属と有機物からなるはくまくを使い、光の化学反応を操りました。",
+     "show": "MOF薄膜で光の化学反応を制御（KITら）"
+    },
+    {
+     "say": "部品の形を少し変えると、じゃまな反応が止まり、固体の中で六つまでの分子がつながりました。光で働く材料づくりに役立ちます。",
+     "show": "リンカー設計で副反応を抑制、最大6単位まで重合"
+    }
+   ],
+   "link": {
+    "url": "https://pubs.acs.org/acsodf/article/doi/10.1021/acsomega.6c06679/5476967/Suppressing-Intramolecular-C-H-Insertion-Enables",
+    "title": "Suppressing Intramolecular C–H Insertion Enables Topochemical Polymerization: Rational Linker Design Controls Nitrene Reactivity in MOF Thin Films",
+    "site": "ACS Omega",
+    "description": "KITらが表面担持MOF薄膜（SURMOF）のリンカー設計でニトレン反応を制御し、固体中で最大6単位のオリゴマー合成に成功。2026年11月26日オンライン掲載。"
+   }
+  },
+  {
+   "label": "原子一層の金属をサンドイッチで安定化",
+   "points": [
+    "ユヴァスキュラ大学が機械学習で300超の安定構造を発見",
+    "セレン系の保護層が最も多くの金属を安定化",
+    "二次元金属の合成ロードマップを公開"
+   ],
+   "details": [
+    "原子一層の金属はすぐに塊になってしまうが、二枚の層ではさむと平らに保てる。",
+    "Nano Letters に掲載。計算はLUMIスーパーコンピュータで実施し、データは公開された。"
+   ],
+   "url": "https://phys.org/news/2026-11-stabilizing-atomically-thin-metals-sandwich.html",
+   "lines": [
+    {
+     "say": "三つ目は、原子一層の金属です。フィンランドの研究チームは、機械学習で千以上の組み合わせを調べ、三百以上の安定な形を見つけました。",
+     "show": "機械学習で1000超の組合せを探索、300超の安定構造"
+    },
+    {
+     "say": "金属を二枚の層ではさむと、平らなまま安定します。セレンを含む層がとくに相性がよく、電子機器や触媒への応用が期待されます。",
+     "show": "2層ではさむと原子1層の金属が安定、Se系が最良"
+    }
+   ],
+   "link": {
+    "url": "https://phys.org/news/2026-11-stabilizing-atomically-thin-metals-sandwich.html",
+    "title": "Stabilizing atomically thin metals with sandwich structures: Machine learning expands the search",
+    "site": "Phys.org",
+    "description": "ユヴァスキュラ大学が機械学習で1000超のメタレン・サンドイッチ構造を調べ、300超の安定構造を特定。Nano Letters に掲載。"
+   }
+  },
+  {
+   "label": "超新星の残骸から逃げ出したパルサー",
+   "points": [
+    "マックス・プランク研らが高速パルサーを発見",
+    "秒速1400km超、銀河系でも最大級の速さ",
+    "電波望遠鏡の複数サーベイを組み合わせて特定"
+   ],
+   "details": [
+    "パルサーは超新星爆発で生まれた中性子星で、爆発のキックで残骸の殻を飛び出すことがある。",
+    "Astronomy & Astrophysics に受理。新型望遠鏡で同様の発見が増えると期待される。"
+   ],
+   "url": "https://phys.org/news/2026-11-runaway-pulsar-remnant-supernova.html",
+   "lines": [
+    {
+     "say": "最後は宇宙の話題です。爆発の跡から逃げ出したパルサーが見つかりました。速さは秒速千四百キロメートルを超えます。",
+     "show": "超新星残骸から逃げ出した高速パルサーを発見"
+    },
+    {
+     "say": "尾が殻の中心を指していて、同じ爆発の仲間だと分かりました。新しい電波望遠鏡なら、同じような発見がもっと増えそうです。",
+     "show": "秒速1400km超、尾が殻の中心を指す"
+    }
+   ],
+   "link": {
+    "url": "https://phys.org/news/2026-11-runaway-pulsar-remnant-supernova.html",
+    "title": "Runaway pulsar escapes the remnant of its own supernova",
+    "site": "Phys.org",
+    "description": "Dokara氏らがパルサーJ1909+0749が超新星残骸G42.1-0.2の殻を飛び出した事例を発見。横方向速度は秒速1400km超。Astronomy & Astrophysics に受理。"
+   }
+  }
+ ],
+ "closing": [
+  {
+   "say": "伸びる半導体は、曲がる基板の上で回路を動かす研究にもつながる話で、とくに気になりました。",
+   "show": "伸びる半導体、曲がる基板の回路にもつながる話"
+  },
+  {
+   "say": "それでは、よい一日を。明日も朝のサイエンスニュースをお届けします。",
+   "show": "よい一日を。明日も朝のサイエンスニュースをお届けします。"
+  }
+ ],
+ "highlight": 0,
+ "format": "monoradio/news-1",
+ "date": "2026-11-27",
+ "lang": "ja",
+ "lines_timed": [
+  {
+   "start": 0.6,
+   "end": 7.183,
+   "show": "おはようございます、ラディです。11/27（金）の朝のサイエンスニュースです。",
+   "part": 0
+  },
+  {
+   "start": 7.433,
+   "end": 13.273,
+   "show": "今日は伸びる半導体、原子1層の金属など4つの話題です。",
+   "part": 0
+  },
+  {
+   "start": 14.323,
+   "end": 24.435,
+   "show": "トロント大、形を変える分子でプラスチック半導体を伸縮自在に",
+   "part": 1
+  },
+  {
+   "start": 24.685,
+   "end": 33.706,
+   "show": "2倍以上伸びても割れず、導電性はほぼ維持",
+   "part": 1
+  },
+  {
+   "start": 34.756,
+   "end": 44.253,
+   "show": "MOF薄膜で光の化学反応を制御（KITら）",
+   "part": 2
+  },
+  {
+   "start": 44.503,
+   "end": 54.267,
+   "show": "リンカー設計で副反応を抑制、最大6単位まで重合",
+   "part": 2
+  },
+  {
+   "start": 55.317,
+   "end": 66.346,
+   "show": "機械学習で1000超の組合せを探索、300超の安定構造",
+   "part": 3
+  },
+  {
+   "start": 66.596,
+   "end": 76.337,
+   "show": "2層ではさむと原子1層の金属が安定、Se系が最良",
+   "part": 3
+  },
+  {
+   "start": 77.387,
+   "end": 85.758,
+   "show": "超新星残骸から逃げ出した高速パルサーを発見",
+   "part": 4
+  },
+  {
+   "start": 86.008,
+   "end": 95.575,
+   "show": "秒速1400km超、尾が殻の中心を指す",
+   "part": 4
+  },
+  {
+   "start": 96.625,
+   "end": 103.695,
+   "show": "伸びる半導体、曲がる基板の回路にもつながる話",
+   "part": 5
+  },
+  {
+   "start": 103.945,
+   "end": 108.647,
+   "show": "よい一日を。明日も朝のサイエンスニュースをお届けします。",
+   "part": 5
+  }
+ ],
+ "segments": [
+  {
+   "kind": "opening",
+   "index": null,
+   "start": 0.6,
+   "end": 13.273
+  },
+  {
+   "kind": "news",
+   "index": 0,
+   "start": 14.323,
+   "end": 33.706
+  },
+  {
+   "kind": "news",
+   "index": 1,
+   "start": 34.756,
+   "end": 54.267
+  },
+  {
+   "kind": "news",
+   "index": 2,
+   "start": 55.317,
+   "end": 76.337
+  },
+  {
+   "kind": "news",
+   "index": 3,
+   "start": 77.387,
+   "end": 95.575
+  },
+  {
+   "kind": "closing",
+   "index": null,
+   "start": 96.625,
+   "end": 108.647
+  }
+ ],
+ "seconds": 110.15,
+ "made_at": "2026-11-27T05:32:40"
+}
